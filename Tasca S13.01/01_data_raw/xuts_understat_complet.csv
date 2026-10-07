@@ -1,0 +1,1171 @@
+league,season,team,team_understat,xuts_totals_understat,xuts_rebuts_understat
+GER-Bundesliga,1516,Augsburg,Augsburg,444,542
+GER-Bundesliga,1516,Bayern Munich,Bayern_Munich,629,256
+GER-Bundesliga,1516,Darmstadt 98,Darmstadt,347,512
+GER-Bundesliga,1516,Dortmund,Borussia_Dortmund,532,272
+GER-Bundesliga,1516,Frankfurt,Eintracht_Frankfurt,367,428
+GER-Bundesliga,1516,Gladbach,Borussia_M.Gladbach,460,460
+GER-Bundesliga,1516,Hamburger SV,Hamburger_SV,377,472
+GER-Bundesliga,1516,Hannover 96,Hannover_96,382,509
+GER-Bundesliga,1516,Hertha BSC,Hertha_Berlin,332,428
+GER-Bundesliga,1516,Hoffenheim,Hoffenheim,386,554
+GER-Bundesliga,1516,Ingolstadt,Ingolstadt,426,366
+GER-Bundesliga,1516,Köln,FC_Cologne,416,485
+GER-Bundesliga,1516,Leverkusen,Bayer_Leverkusen,492,362
+GER-Bundesliga,1516,Mainz 05,Mainz_05,383,472
+GER-Bundesliga,1516,Schalke 04,Schalke_04,491,493
+GER-Bundesliga,1516,Stuttgart,VfB_Stuttgart,500,470
+GER-Bundesliga,1516,Werder Bremen,Werder_Bremen,458,445
+GER-Bundesliga,1516,Wolfsburg,Wolfsburg,493,389
+ITA-Serie A,1617,Atalanta,Atalanta,536,406
+ITA-Serie A,1617,Bologna,Bologna,422,534
+ITA-Serie A,1617,Cagliari,Cagliari,429,653
+ITA-Serie A,1617,Chievo,Chievo,410,580
+ITA-Serie A,1617,Crotone,Crotone,405,574
+ITA-Serie A,1617,Empoli,Empoli,365,614
+ITA-Serie A,1617,Fiorentina,Fiorentina,615,460
+ITA-Serie A,1617,Genoa,Genoa,449,485
+ITA-Serie A,1617,Inter,Inter,638,411
+ITA-Serie A,1617,Juventus,Juventus,588,353
+ITA-Serie A,1617,Lazio,Lazio,591,423
+ITA-Serie A,1617,Milan,AC_Milan,557,528
+ITA-Serie A,1617,Napoli,Napoli,672,387
+ITA-Serie A,1617,Palermo,Palermo,384,549
+ITA-Serie A,1617,Pescara,Pescara,446,600
+ITA-Serie A,1617,Roma,Roma,678,473
+ITA-Serie A,1617,Sampdoria,Sampdoria,508,501
+ITA-Serie A,1617,Sassuolo,Sassuolo,444,592
+ITA-Serie A,1617,Torino,Torino,575,545
+ITA-Serie A,1617,Udinese,Udinese,434,477
+FRA-Ligue 1,1718,Amiens,Amiens,361,603
+FRA-Ligue 1,1718,Angers,Angers,464,421
+FRA-Ligue 1,1718,Bordeaux,Bordeaux,473,420
+FRA-Ligue 1,1718,Caen,Caen,460,440
+FRA-Ligue 1,1718,Dijon,Dijon,445,529
+FRA-Ligue 1,1718,Guingamp,Guingamp,451,491
+FRA-Ligue 1,1718,Lille,Lille,428,513
+FRA-Ligue 1,1718,Lyon,Lyon,581,434
+FRA-Ligue 1,1718,Marseille,Marseille,628,412
+FRA-Ligue 1,1718,Metz,Metz,430,544
+FRA-Ligue 1,1718,Monaco,Monaco,492,459
+FRA-Ligue 1,1718,Montpellier,Montpellier,494,386
+FRA-Ligue 1,1718,Nantes,Nantes,499,475
+FRA-Ligue 1,1718,Nice,Nice,485,487
+FRA-Ligue 1,1718,PSG,Paris_Saint_Germain,634,410
+FRA-Ligue 1,1718,Rennes,Rennes,470,431
+FRA-Ligue 1,1718,Saint-Étienne,Saint-Étienne,424,532
+FRA-Ligue 1,1718,Strasbourg,Strasbourg,451,461
+FRA-Ligue 1,1718,Toulouse,Toulouse,436,475
+FRA-Ligue 1,1718,Troyes,Troyes,361,544
+ESP-La Liga,2425,Alavés,Alavés,403,407
+ESP-La Liga,2425,Athletic Club,Athletic_Club,471,344
+ESP-La Liga,2425,Atlético Madrid,Atlético_Madrid,468,393
+ESP-La Liga,2425,Barcelona,Barcelona,680,296
+ESP-La Liga,2425,Celta Vigo,Celta_Vigo,451,404
+ESP-La Liga,2425,Espanyol,Espanyol,358,567
+ESP-La Liga,2425,Getafe,Getafe,434,371
+ESP-La Liga,2425,Girona,Girona,403,458
+ESP-La Liga,2425,Las Palmas,Las_Palmas,413,542
+ESP-La Liga,2425,Leganés,Leganés,354,573
+ESP-La Liga,2425,Mallorca,Mallorca,387,567
+ESP-La Liga,2425,Osasuna,Osasuna,422,469
+ESP-La Liga,2425,Rayo Vallecano,Rayo_Vallecano,518,468
+ESP-La Liga,2425,Real Betis,Real_Betis,530,423
+ESP-La Liga,2425,Real Madrid,Real_Madrid,635,406
+ESP-La Liga,2425,Real Sociedad,Real_Sociedad,390,439
+ESP-La Liga,2425,Sevilla,Sevilla,478,416
+ESP-La Liga,2425,Valencia,Valencia,386,429
+ESP-La Liga,2425,Valladolid,Real_Valladolid,335,600
+ESP-La Liga,2425,Villarreal,Villarreal,540,484
+ENG-Premier League,2425,Arsenal,Arsenal,548,362
+ENG-Premier League,2425,Aston Villa,Aston_Villa,486,462
+ENG-Premier League,2425,Bournemouth,Bournemouth,580,488
+ENG-Premier League,2425,Brentford,Brentford,443,650
+ENG-Premier League,2425,Brighton,Brighton,535,428
+ENG-Premier League,2425,Chelsea,Chelsea,598,398
+ENG-Premier League,2425,Crystal Palace,Crystal_Palace,517,487
+ENG-Premier League,2425,Everton,Everton,408,479
+ENG-Premier League,2425,Fulham,Fulham,522,434
+ENG-Premier League,2425,Ipswich Town,Ipswich,377,611
+ENG-Premier League,2425,Leicester City,Leicester,335,643
+ENG-Premier League,2425,Liverpool,Liverpool,649,388
+ENG-Premier League,2425,Manchester City,Manchester_City,609,356
+ENG-Premier League,2425,Manchester Utd,Manchester_United,530,416
+ENG-Premier League,2425,Newcastle,Newcastle_United,525,475
+ENG-Premier League,2425,Nottingham,Nottingham_Forest,464,531
+ENG-Premier League,2425,Southampton,Southampton,344,682
+ENG-Premier League,2425,Tottenham,Tottenham,499,526
+ENG-Premier League,2425,West Ham,West_Ham,478,586
+ENG-Premier League,2425,Wolves,Wolverhampton_Wanderers,431,476
+ITA-Serie A,2526,Atalanta,Atalanta,564,448
+ITA-Serie A,2526,Bologna,Bologna,494,390
+ITA-Serie A,2526,Cagliari,Cagliari,415,490
+ITA-Serie A,2526,Como,Como,551,342
+ITA-Serie A,2526,Cremonese,Cremonese,346,593
+ITA-Serie A,2526,Fiorentina,Fiorentina,490,517
+ITA-Serie A,2526,Genoa,Genoa,434,487
+ITA-Serie A,2526,Hellas Verona,Verona,423,517
+ITA-Serie A,2526,Inter,Inter,654,348
+ITA-Serie A,2526,Juventus,Juventus,640,391
+ITA-Serie A,2526,Lazio,Lazio,418,506
+ITA-Serie A,2526,Lecce,Lecce,373,483
+ITA-Serie A,2526,Milan,AC_Milan,502,438
+ITA-Serie A,2526,Napoli,Napoli,502,388
+ITA-Serie A,2526,Parma,Parma,420,530
+ITA-Serie A,2526,Pisa,Pisa,364,548
+ITA-Serie A,2526,Roma,Roma,501,370
+ITA-Serie A,2526,Sassuolo,Sassuolo,407,550
+ITA-Serie A,2526,Torino,Torino,450,526
+ITA-Serie A,2526,Udinese,Udinese,439,503
+GER-Bundesliga,1819,Augsburg,Augsburg,455,523
+GER-Bundesliga,1819,Bayern Munich,Bayern_Munich,637,258
+GER-Bundesliga,1819,Dortmund,Borussia_Dortmund,449,350
+GER-Bundesliga,1819,Düsseldorf,Fortuna_Duesseldorf,418,491
+GER-Bundesliga,1819,Frankfurt,Eintracht_Frankfurt,419,457
+GER-Bundesliga,1819,Freiburg,Freiburg,427,525
+GER-Bundesliga,1819,Gladbach,Borussia_M.Gladbach,459,452
+GER-Bundesliga,1819,Hannover 96,Hannover_96,382,571
+GER-Bundesliga,1819,Hertha BSC,Hertha_Berlin,405,504
+GER-Bundesliga,1819,Hoffenheim,Hoffenheim,614,470
+GER-Bundesliga,1819,Leverkusen,Bayer_Leverkusen,517,393
+GER-Bundesliga,1819,Mainz 05,Mainz_05,500,515
+GER-Bundesliga,1819,Nürnberg,Nuernberg,362,519
+GER-Bundesliga,1819,RB Leipzig,RasenBallsport_Leipzig,497,321
+GER-Bundesliga,1819,Schalke 04,Schalke_04,417,466
+GER-Bundesliga,1819,Stuttgart,VfB_Stuttgart,408,530
+GER-Bundesliga,1819,Werder Bremen,Werder_Bremen,471,474
+GER-Bundesliga,1819,Wolfsburg,Wolfsburg,427,445
+ITA-Serie A,2122,Atalanta,Atalanta,605,395
+ITA-Serie A,2122,Bologna,Bologna,439,542
+ITA-Serie A,2122,Cagliari,Cagliari,424,553
+ITA-Serie A,2122,Empoli,Empoli,498,674
+ITA-Serie A,2122,Fiorentina,Fiorentina,513,358
+ITA-Serie A,2122,Genoa,Genoa,408,541
+ITA-Serie A,2122,Hellas Verona,Verona,463,477
+ITA-Serie A,2122,Inter,Inter,676,404
+ITA-Serie A,2122,Juventus,Juventus,524,445
+ITA-Serie A,2122,Lazio,Lazio,457,474
+ITA-Serie A,2122,Milan,AC_Milan,606,404
+ITA-Serie A,2122,Napoli,Napoli,579,420
+ITA-Serie A,2122,Roma,Roma,601,378
+ITA-Serie A,2122,Salernitana,Salernitana,433,594
+ITA-Serie A,2122,Sampdoria,Sampdoria,395,556
+ITA-Serie A,2122,Sassuolo,Sassuolo,580,532
+ITA-Serie A,2122,Spezia,Spezia,389,644
+ITA-Serie A,2122,Torino,Torino,477,392
+ITA-Serie A,2122,Udinese,Udinese,512,469
+ITA-Serie A,2122,Venezia,Venezia,353,680
+ITA-Serie A,2425,Atalanta,Atalanta,547,406
+ITA-Serie A,2425,Bologna,Bologna,512,322
+ITA-Serie A,2425,Cagliari,Cagliari,425,500
+ITA-Serie A,2425,Como,Como,525,382
+ITA-Serie A,2425,Empoli,Empoli,369,515
+ITA-Serie A,2425,Fiorentina,Fiorentina,449,444
+ITA-Serie A,2425,Genoa,Genoa,387,482
+ITA-Serie A,2425,Hellas Verona,Verona,377,505
+ITA-Serie A,2425,Inter,Inter,578,399
+ITA-Serie A,2425,Juventus,Juventus,517,399
+ITA-Serie A,2425,Lazio,Lazio,536,386
+ITA-Serie A,2425,Lecce,Lecce,454,533
+ITA-Serie A,2425,Milan,AC_Milan,566,435
+ITA-Serie A,2425,Monza,Monza,335,571
+ITA-Serie A,2425,Napoli,Napoli,507,368
+ITA-Serie A,2425,Parma,Parma,420,530
+ITA-Serie A,2425,Roma,Roma,523,443
+ITA-Serie A,2425,Torino,Torino,388,531
+ITA-Serie A,2425,Udinese,Udinese,433,508
+ITA-Serie A,2425,Venezia,Venezia,390,570
+ESP-La Liga,1718,Alavés,Alavés,389,535
+ESP-La Liga,1718,Athletic Club,Athletic_Club,433,473
+ESP-La Liga,1718,Atlético Madrid,Atlético_Madrid,405,442
+ESP-La Liga,1718,Barcelona,Barcelona,583,443
+ESP-La Liga,1718,Celta Vigo,Celta_Vigo,446,449
+ESP-La Liga,1718,Dep. La Coruña,Deportivo_La_Coruna,465,528
+ESP-La Liga,1718,Eibar,Eibar,474,328
+ESP-La Liga,1718,Espanyol,Espanyol,414,487
+ESP-La Liga,1718,Getafe,Getafe,374,385
+ESP-La Liga,1718,Girona,Girona,456,431
+ESP-La Liga,1718,Las Palmas,Las_Palmas,412,533
+ESP-La Liga,1718,Leganés,Leganés,397,426
+ESP-La Liga,1718,Levante,Levante,410,543
+ESP-La Liga,1718,Málaga,Málaga,401,457
+ESP-La Liga,1718,Real Betis,Real_Betis,419,456
+ESP-La Liga,1718,Real Madrid,Real_Madrid,703,395
+ESP-La Liga,1718,Real Sociedad,Real_Sociedad,518,386
+ESP-La Liga,1718,Sevilla,Sevilla,519,475
+ESP-La Liga,1718,Valencia,Valencia,481,482
+ESP-La Liga,1718,Villarreal,Villarreal,475,520
+ENG-Premier League,1718,Arsenal,Arsenal,593,422
+ENG-Premier League,1718,Bournemouth,Bournemouth,465,550
+ENG-Premier League,1718,Brighton,Brighton,383,559
+ENG-Premier League,1718,Burnley,Burnley,376,565
+ENG-Premier League,1718,Chelsea,Chelsea,608,379
+ENG-Premier League,1718,Crystal Palace,Crystal_Palace,475,466
+ENG-Premier League,1718,Everton,Everton,359,541
+ENG-Premier League,1718,Huddersfield,Huddersfield,363,441
+ENG-Premier League,1718,Leicester City,Leicester,423,492
+ENG-Premier League,1718,Liverpool,Liverpool,638,281
+ENG-Premier League,1718,Manchester City,Manchester_City,666,236
+ENG-Premier League,1718,Manchester Utd,Manchester_United,513,435
+ENG-Premier League,1718,Newcastle,Newcastle_United,452,477
+ENG-Premier League,1718,Southampton,Southampton,449,492
+ENG-Premier League,1718,Stoke City,Stoke,383,578
+ENG-Premier League,1718,Swansea City,Swansea,334,536
+ENG-Premier League,1718,Tottenham,Tottenham,624,353
+ENG-Premier League,1718,Watford,Watford,439,410
+ENG-Premier League,1718,West Brom,West_Bromwich_Albion,372,514
+ENG-Premier League,1718,West Ham,West_Ham,372,560
+GER-Bundesliga,2324,Augsburg,Augsburg,439,509
+GER-Bundesliga,2324,Bayern Munich,Bayern_Munich,639,354
+GER-Bundesliga,2324,Bochum,Bochum,525,537
+GER-Bundesliga,2324,Darmstadt 98,Darmstadt,407,573
+GER-Bundesliga,2324,Dortmund,Borussia_Dortmund,511,478
+GER-Bundesliga,2324,Frankfurt,Eintracht_Frankfurt,408,420
+GER-Bundesliga,2324,Freiburg,Freiburg,403,510
+GER-Bundesliga,2324,Gladbach,Borussia_M.Gladbach,453,580
+GER-Bundesliga,2324,Heidenheim,FC_Heidenheim,399,528
+GER-Bundesliga,2324,Hoffenheim,Hoffenheim,465,572
+GER-Bundesliga,2324,Köln,FC_Cologne,447,508
+GER-Bundesliga,2324,Leverkusen,Bayer_Leverkusen,622,291
+GER-Bundesliga,2324,Mainz 05,Mainz_05,480,414
+GER-Bundesliga,2324,RB Leipzig,RasenBallsport_Leipzig,537,402
+GER-Bundesliga,2324,Stuttgart,VfB_Stuttgart,533,379
+GER-Bundesliga,2324,Union Berlin,Union_Berlin,409,484
+GER-Bundesliga,2324,Werder Bremen,Werder_Bremen,415,534
+GER-Bundesliga,2324,Wolfsburg,Wolfsburg,414,433
+ITA-Serie A,1718,Atalanta,Atalanta,576,405
+ITA-Serie A,1718,Benevento,Benevento,470,563
+ITA-Serie A,1718,Bologna,Bologna,358,530
+ITA-Serie A,1718,Cagliari,Cagliari,379,537
+ITA-Serie A,1718,Chievo,Chievo,389,590
+ITA-Serie A,1718,Crotone,Crotone,381,559
+ITA-Serie A,1718,Fiorentina,Fiorentina,618,398
+ITA-Serie A,1718,Genoa,Genoa,417,507
+ITA-Serie A,1718,Hellas Verona,Verona,359,714
+ITA-Serie A,1718,Inter,Inter,571,445
+ITA-Serie A,1718,Juventus,Juventus,559,313
+ITA-Serie A,1718,Lazio,Lazio,553,443
+ITA-Serie A,1718,Milan,AC_Milan,612,411
+ITA-Serie A,1718,Napoli,Napoli,659,325
+ITA-Serie A,1718,Roma,Roma,652,421
+ITA-Serie A,1718,SPAL,SPAL_2013,375,584
+ITA-Serie A,1718,Sampdoria,Sampdoria,475,548
+ITA-Serie A,1718,Sassuolo,Sassuolo,497,472
+ITA-Serie A,1718,Torino,Torino,451,503
+ITA-Serie A,1718,Udinese,Udinese,443,526
+FRA-Ligue 1,1920,Amiens,Amiens,235,409
+FRA-Ligue 1,1920,Angers,Angers,363,268
+FRA-Ligue 1,1920,Bordeaux,Bordeaux,311,359
+FRA-Ligue 1,1920,Brest,Brest,325,411
+FRA-Ligue 1,1920,Dijon,Dijon,337,398
+FRA-Ligue 1,1920,Lille,Lille,351,279
+FRA-Ligue 1,1920,Lyon,Lyon,360,312
+FRA-Ligue 1,1920,Marseille,Marseille,378,282
+FRA-Ligue 1,1920,Metz,Metz,310,388
+FRA-Ligue 1,1920,Monaco,Monaco,378,369
+FRA-Ligue 1,1920,Montpellier,Montpellier,355,373
+FRA-Ligue 1,1920,Nantes,Nantes,338,302
+FRA-Ligue 1,1920,Nice,Nice,340,393
+FRA-Ligue 1,1920,Nîmes,Nîmes,354,348
+FRA-Ligue 1,1920,PSG,Paris_Saint_Germain,452,268
+FRA-Ligue 1,1920,Reims,Reims,329,284
+FRA-Ligue 1,1920,Rennes,Rennes,345,359
+FRA-Ligue 1,1920,Saint-Étienne,Saint-Étienne,307,324
+FRA-Ligue 1,1920,Strasbourg,Strasbourg,327,272
+FRA-Ligue 1,1920,Toulouse,Toulouse,317,414
+GER-Bundesliga,2526,Augsburg,Augsburg,444,503
+GER-Bundesliga,2526,Bayern Munich,Bayern_Munich,656,357
+GER-Bundesliga,2526,Dortmund,Borussia_Dortmund,446,362
+GER-Bundesliga,2526,Frankfurt,Eintracht_Frankfurt,408,430
+GER-Bundesliga,2526,Freiburg,Freiburg,418,470
+GER-Bundesliga,2526,Gladbach,Borussia_M.Gladbach,398,487
+GER-Bundesliga,2526,Hamburger SV,Hamburger_SV,418,496
+GER-Bundesliga,2526,Heidenheim,FC_Heidenheim,390,520
+GER-Bundesliga,2526,Hoffenheim,Hoffenheim,483,418
+GER-Bundesliga,2526,Köln,FC_Cologne,456,461
+GER-Bundesliga,2526,Leverkusen,Bayer_Leverkusen,517,437
+GER-Bundesliga,2526,Mainz 05,Mainz_05,409,482
+GER-Bundesliga,2526,RB Leipzig,RasenBallsport_Leipzig,539,412
+GER-Bundesliga,2526,St Pauli,St._Pauli,347,425
+GER-Bundesliga,2526,Stuttgart,VfB_Stuttgart,520,429
+GER-Bundesliga,2526,Union Berlin,Union_Berlin,424,441
+GER-Bundesliga,2526,Werder Bremen,Werder_Bremen,445,469
+GER-Bundesliga,2526,Wolfsburg,Wolfsburg,406,525
+GER-Bundesliga,1617,Augsburg,Augsburg,370,469
+GER-Bundesliga,1617,Bayern Munich,Bayern_Munich,623,302
+GER-Bundesliga,1617,Darmstadt 98,Darmstadt,340,546
+GER-Bundesliga,1617,Dortmund,Borussia_Dortmund,532,349
+GER-Bundesliga,1617,Frankfurt,Eintracht_Frankfurt,384,344
+GER-Bundesliga,1617,Freiburg,Freiburg,406,501
+GER-Bundesliga,1617,Gladbach,Borussia_M.Gladbach,411,425
+GER-Bundesliga,1617,Hamburger SV,Hamburger_SV,361,440
+GER-Bundesliga,1617,Hertha BSC,Hertha_Berlin,347,435
+GER-Bundesliga,1617,Hoffenheim,Hoffenheim,495,417
+GER-Bundesliga,1617,Ingolstadt,Ingolstadt,456,411
+GER-Bundesliga,1617,Köln,FC_Cologne,360,477
+GER-Bundesliga,1617,Leverkusen,Bayer_Leverkusen,446,395
+GER-Bundesliga,1617,Mainz 05,Mainz_05,416,425
+GER-Bundesliga,1617,RB Leipzig,RasenBallsport_Leipzig,445,341
+GER-Bundesliga,1617,Schalke 04,Schalke_04,443,398
+GER-Bundesliga,1617,Werder Bremen,Werder_Bremen,377,524
+GER-Bundesliga,1617,Wolfsburg,Wolfsburg,434,447
+FRA-Ligue 1,2223,Ajaccio,Ajaccio,320,423
+FRA-Ligue 1,2223,Angers,Angers,372,467
+FRA-Ligue 1,2223,Auxerre,Auxerre,430,474
+FRA-Ligue 1,2223,Brest,Brest,427,494
+FRA-Ligue 1,2223,Clermont Foot,Clermont_Foot,402,482
+FRA-Ligue 1,2223,Lens,Lens,527,390
+FRA-Ligue 1,2223,Lille,Lille,557,329
+FRA-Ligue 1,2223,Lorient,Lorient,406,567
+FRA-Ligue 1,2223,Lyon,Lyon,521,431
+FRA-Ligue 1,2223,Marseille,Marseille,560,431
+FRA-Ligue 1,2223,Monaco,Monaco,480,516
+FRA-Ligue 1,2223,Montpellier,Montpellier,444,524
+FRA-Ligue 1,2223,Nantes,Nantes,451,460
+FRA-Ligue 1,2223,Nice,Nice,515,446
+FRA-Ligue 1,2223,PSG,Paris_Saint_Germain,572,449
+FRA-Ligue 1,2223,Reims,Reims,522,487
+FRA-Ligue 1,2223,Rennes,Rennes,531,375
+FRA-Ligue 1,2223,Strasbourg,Strasbourg,452,430
+FRA-Ligue 1,2223,Toulouse,Toulouse,460,543
+FRA-Ligue 1,2223,Troyes,Troyes,396,627
+GER-Bundesliga,2122,Arminia,Arminia_Bielefeld,364,532
+GER-Bundesliga,2122,Augsburg,Augsburg,369,490
+GER-Bundesliga,2122,Bayern Munich,Bayern_Munich,677,319
+GER-Bundesliga,2122,Bochum,Bochum,414,478
+GER-Bundesliga,2122,Dortmund,Borussia_Dortmund,457,373
+GER-Bundesliga,2122,Frankfurt,Eintracht_Frankfurt,450,434
+GER-Bundesliga,2122,Freiburg,Freiburg,464,482
+GER-Bundesliga,2122,Gladbach,Borussia_M.Gladbach,493,476
+GER-Bundesliga,2122,Greuther Fürth,Greuther_Fuerth,316,511
+GER-Bundesliga,2122,Hertha BSC,Hertha_Berlin,370,460
+GER-Bundesliga,2122,Hoffenheim,Hoffenheim,452,425
+GER-Bundesliga,2122,Köln,FC_Cologne,466,432
+GER-Bundesliga,2122,Leverkusen,Bayer_Leverkusen,463,457
+GER-Bundesliga,2122,Mainz 05,Mainz_05,470,384
+GER-Bundesliga,2122,RB Leipzig,RasenBallsport_Leipzig,437,353
+GER-Bundesliga,2122,Stuttgart,VfB_Stuttgart,453,504
+GER-Bundesliga,2122,Union Berlin,Union_Berlin,413,399
+GER-Bundesliga,2122,Wolfsburg,Wolfsburg,421,440
+GER-Bundesliga,2425,Augsburg,Augsburg,396,452
+GER-Bundesliga,2425,Bayern Munich,Bayern_Munich,649,231
+GER-Bundesliga,2425,Bochum,Bochum,416,476
+GER-Bundesliga,2425,Dortmund,Borussia_Dortmund,483,376
+GER-Bundesliga,2425,Frankfurt,Eintracht_Frankfurt,486,471
+GER-Bundesliga,2425,Freiburg,Freiburg,412,434
+GER-Bundesliga,2425,Gladbach,Borussia_M.Gladbach,419,585
+GER-Bundesliga,2425,Heidenheim,FC_Heidenheim,401,459
+GER-Bundesliga,2425,Hoffenheim,Hoffenheim,444,496
+GER-Bundesliga,2425,Holstein Kiel,Holstein_Kiel,361,536
+GER-Bundesliga,2425,Leverkusen,Bayer_Leverkusen,505,337
+GER-Bundesliga,2425,Mainz 05,Mainz_05,421,462
+GER-Bundesliga,2425,RB Leipzig,RasenBallsport_Leipzig,408,497
+GER-Bundesliga,2425,St Pauli,St._Pauli,381,382
+GER-Bundesliga,2425,Stuttgart,VfB_Stuttgart,475,388
+GER-Bundesliga,2425,Union Berlin,Union_Berlin,415,416
+GER-Bundesliga,2425,Werder Bremen,Werder_Bremen,430,472
+GER-Bundesliga,2425,Wolfsburg,Wolfsburg,442,474
+FRA-Ligue 1,1415,Bastia,SC_Bastia,321,476
+FRA-Ligue 1,1415,Bordeaux,Bordeaux,489,392
+FRA-Ligue 1,1415,Caen,Caen,464,517
+FRA-Ligue 1,1415,Evian,Evian_Thonon_Gaillard,337,443
+FRA-Ligue 1,1415,Guingamp,Guingamp,360,479
+FRA-Ligue 1,1415,Lens,Lens,401,479
+FRA-Ligue 1,1415,Lille,Lille,464,382
+FRA-Ligue 1,1415,Lorient,Lorient,491,448
+FRA-Ligue 1,1415,Lyon,Lyon,512,395
+FRA-Ligue 1,1415,Marseille,Marseille,549,415
+FRA-Ligue 1,1415,Metz,Metz,450,465
+FRA-Ligue 1,1415,Monaco,Monaco,453,375
+FRA-Ligue 1,1415,Montpellier,Montpellier,390,437
+FRA-Ligue 1,1415,Nantes,Nantes,427,396
+FRA-Ligue 1,1415,Nice,Nice,419,438
+FRA-Ligue 1,1415,PSG,Paris_Saint_Germain,483,382
+FRA-Ligue 1,1415,Reims,Reims,443,492
+FRA-Ligue 1,1415,Rennes,Rennes,367,446
+FRA-Ligue 1,1415,Saint-Étienne,Saint-Étienne,444,388
+FRA-Ligue 1,1415,Toulouse,Toulouse,432,451
+ESP-La Liga,1920,Alavés,Alavés,314,474
+ESP-La Liga,1920,Athletic Club,Athletic_Club,412,393
+ESP-La Liga,1920,Atlético Madrid,Atlético_Madrid,449,414
+ESP-La Liga,1920,Barcelona,Barcelona,496,371
+ESP-La Liga,1920,Celta Vigo,Celta_Vigo,368,442
+ESP-La Liga,1920,Eibar,Eibar,428,381
+ESP-La Liga,1920,Espanyol,Espanyol,412,448
+ESP-La Liga,1920,Getafe,Getafe,413,282
+ESP-La Liga,1920,Granada,Granada,394,448
+ESP-La Liga,1920,Leganés,Leganés,430,351
+ESP-La Liga,1920,Levante,Levante,430,578
+ESP-La Liga,1920,Mallorca,Mallorca,421,499
+ESP-La Liga,1920,Osasuna,Osasuna,465,424
+ESP-La Liga,1920,Real Betis,Real_Betis,478,450
+ESP-La Liga,1920,Real Madrid,Real_Madrid,564,336
+ESP-La Liga,1920,Real Sociedad,Real_Sociedad,430,395
+ESP-La Liga,1920,Sevilla,Sevilla,491,390
+ESP-La Liga,1920,Valencia,Valencia,339,573
+ESP-La Liga,1920,Valladolid,Real_Valladolid,375,472
+ESP-La Liga,1920,Villarreal,Villarreal,495,483
+ENG-Premier League,1920,Arsenal,Arsenal,406,554
+ENG-Premier League,1920,Aston Villa,Aston_Villa,459,608
+ENG-Premier League,1920,Bournemouth,Bournemouth,389,560
+ENG-Premier League,1920,Brighton,Brighton,464,500
+ENG-Premier League,1920,Burnley,Burnley,389,538
+ENG-Premier League,1920,Chelsea,Chelsea,625,326
+ENG-Premier League,1920,Crystal Palace,Crystal_Palace,378,514
+ENG-Premier League,1920,Everton,Everton,472,431
+ENG-Premier League,1920,Leicester City,Leicester,542,381
+ENG-Premier League,1920,Liverpool,Liverpool,593,344
+ENG-Premier League,1920,Manchester City,Manchester_City,747,279
+ENG-Premier League,1920,Manchester Utd,Manchester_United,546,388
+ENG-Premier League,1920,Newcastle,Newcastle_United,398,569
+ENG-Premier League,1920,Norwich City,Norwich,410,610
+ENG-Premier League,1920,Sheffield United,Sheffield_United,356,431
+ENG-Premier League,1920,Southampton,Southampton,500,453
+ENG-Premier League,1920,Tottenham,Tottenham,449,539
+ENG-Premier League,1920,Watford,Watford,423,499
+ENG-Premier League,1920,West Ham,West_Ham,420,504
+ENG-Premier League,1920,Wolves,Wolverhampton_Wanderers,461,399
+ESP-La Liga,2223,Almería,Almería,439,542
+ESP-La Liga,2223,Athletic Club,Athletic_Club,547,392
+ESP-La Liga,2223,Atlético Madrid,Atlético_Madrid,543,438
+ESP-La Liga,2223,Barcelona,Barcelona,574,334
+ESP-La Liga,2223,Celta Vigo,Celta_Vigo,475,388
+ESP-La Liga,2223,Cádiz,Cádiz,396,549
+ESP-La Liga,2223,Elche,Elche,404,563
+ESP-La Liga,2223,Espanyol,Espanyol,424,546
+ESP-La Liga,2223,Getafe,Getafe,372,489
+ESP-La Liga,2223,Girona,Girona,458,490
+ESP-La Liga,2223,Mallorca,Mallorca,328,496
+ESP-La Liga,2223,Osasuna,Osasuna,447,447
+ESP-La Liga,2223,Rayo Vallecano,Rayo_Vallecano,518,440
+ESP-La Liga,2223,Real Betis,Real_Betis,421,465
+ESP-La Liga,2223,Real Madrid,Real_Madrid,649,422
+ESP-La Liga,2223,Real Sociedad,Real_Sociedad,469,397
+ESP-La Liga,2223,Sevilla,Sevilla,468,515
+ESP-La Liga,2223,Valencia,Valencia,488,400
+ESP-La Liga,2223,Valladolid,Real_Valladolid,447,588
+ESP-La Liga,2223,Villarreal,Villarreal,507,473
+ENG-Premier League,2223,Arsenal,Arsenal,596,342
+ENG-Premier League,2223,Aston Villa,Aston_Villa,432,433
+ENG-Premier League,2223,Bournemouth,Bournemouth,357,627
+ENG-Premier League,2223,Brentford,Brentford,410,562
+ENG-Premier League,2223,Brighton,Brighton,617,394
+ENG-Premier League,2223,Chelsea,Chelsea,483,441
+ENG-Premier League,2223,Crystal Palace,Crystal_Palace,427,459
+ENG-Premier League,2223,Everton,Everton,430,573
+ENG-Premier League,2223,Fulham,Fulham,431,506
+ENG-Premier League,2223,Leeds United,Leeds,464,529
+ENG-Premier League,2223,Leicester City,Leicester,419,578
+ENG-Premier League,2223,Liverpool,Liverpool,610,371
+ENG-Premier League,2223,Manchester City,Manchester_City,602,294
+ENG-Premier League,2223,Manchester Utd,Manchester_United,594,480
+ENG-Premier League,2223,Newcastle,Newcastle_United,575,390
+ENG-Premier League,2223,Nottingham,Nottingham_Forest,370,557
+ENG-Premier League,2223,Southampton,Southampton,414,530
+ENG-Premier League,2223,Tottenham,Tottenham,522,520
+ENG-Premier League,2223,West Ham,West_Ham,475,501
+ENG-Premier League,2223,Wolves,Wolverhampton_Wanderers,416,557
+FRA-Ligue 1,2021,Angers,Angers,402,399
+FRA-Ligue 1,2021,Bordeaux,Bordeaux,421,473
+FRA-Ligue 1,2021,Brest,Brest,452,486
+FRA-Ligue 1,2021,Dijon,Dijon,350,538
+FRA-Ligue 1,2021,Lens,Lens,450,416
+FRA-Ligue 1,2021,Lille,Lille,488,337
+FRA-Ligue 1,2021,Lorient,Lorient,428,467
+FRA-Ligue 1,2021,Lyon,Lyon,616,443
+FRA-Ligue 1,2021,Marseille,Marseille,383,448
+FRA-Ligue 1,2021,Metz,Metz,435,480
+FRA-Ligue 1,2021,Monaco,Monaco,489,329
+FRA-Ligue 1,2021,Montpellier,Montpellier,466,561
+FRA-Ligue 1,2021,Nantes,Nantes,412,458
+FRA-Ligue 1,2021,Nice,Nice,411,508
+FRA-Ligue 1,2021,Nîmes,Nîmes,390,519
+FRA-Ligue 1,2021,PSG,Paris_Saint_Germain,569,380
+FRA-Ligue 1,2021,Reims,Reims,366,513
+FRA-Ligue 1,2021,Rennes,Rennes,514,367
+FRA-Ligue 1,2021,Saint-Étienne,Saint-Étienne,444,416
+FRA-Ligue 1,2021,Strasbourg,Strasbourg,435,383
+GER-Bundesliga,1718,Augsburg,Augsburg,434,462
+GER-Bundesliga,1718,Bayern Munich,Bayern_Munich,603,291
+GER-Bundesliga,1718,Dortmund,Borussia_Dortmund,487,368
+GER-Bundesliga,1718,Frankfurt,Eintracht_Frankfurt,388,401
+GER-Bundesliga,1718,Freiburg,Freiburg,381,490
+GER-Bundesliga,1718,Gladbach,Borussia_M.Gladbach,459,502
+GER-Bundesliga,1718,Hamburger SV,Hamburger_SV,396,445
+GER-Bundesliga,1718,Hannover 96,Hannover_96,435,498
+GER-Bundesliga,1718,Hertha BSC,Hertha_Berlin,320,438
+GER-Bundesliga,1718,Hoffenheim,Hoffenheim,477,433
+GER-Bundesliga,1718,Köln,FC_Cologne,387,533
+GER-Bundesliga,1718,Leverkusen,Bayer_Leverkusen,510,354
+GER-Bundesliga,1718,Mainz 05,Mainz_05,414,434
+GER-Bundesliga,1718,RB Leipzig,RasenBallsport_Leipzig,487,384
+GER-Bundesliga,1718,Schalke 04,Schalke_04,408,378
+GER-Bundesliga,1718,Stuttgart,VfB_Stuttgart,364,439
+GER-Bundesliga,1718,Werder Bremen,Werder_Bremen,437,424
+GER-Bundesliga,1718,Wolfsburg,Wolfsburg,350,463
+ITA-Serie A,2223,Atalanta,Atalanta,517,453
+ITA-Serie A,2223,Bologna,Bologna,486,487
+ITA-Serie A,2223,Cremonese,Cremonese,465,584
+ITA-Serie A,2223,Empoli,Empoli,449,613
+ITA-Serie A,2223,Fiorentina,Fiorentina,606,348
+ITA-Serie A,2223,Hellas Verona,Verona,417,544
+ITA-Serie A,2223,Inter,Inter,631,429
+ITA-Serie A,2223,Juventus,Juventus,534,467
+ITA-Serie A,2223,Lazio,Lazio,439,467
+ITA-Serie A,2223,Lecce,Lecce,421,451
+ITA-Serie A,2223,Milan,AC_Milan,555,407
+ITA-Serie A,2223,Monza,Monza,413,485
+ITA-Serie A,2223,Napoli,Napoli,614,366
+ITA-Serie A,2223,Roma,Roma,498,396
+ITA-Serie A,2223,Salernitana,Salernitana,386,590
+ITA-Serie A,2223,Sampdoria,Sampdoria,380,603
+ITA-Serie A,2223,Sassuolo,Sassuolo,488,486
+ITA-Serie A,2223,Spezia,Spezia,422,601
+ITA-Serie A,2223,Torino,Torino,448,433
+ITA-Serie A,2223,Udinese,Udinese,506,465
+ITA-Serie A,1920,Atalanta,Atalanta,711,422
+ITA-Serie A,1920,Bologna,Bologna,560,539
+ITA-Serie A,1920,Brescia,Brescia,420,699
+ITA-Serie A,1920,Cagliari,Cagliari,446,619
+ITA-Serie A,1920,Fiorentina,Fiorentina,552,440
+ITA-Serie A,1920,Genoa,Genoa,439,593
+ITA-Serie A,1920,Hellas Verona,Verona,445,589
+ITA-Serie A,1920,Inter,Inter,619,458
+ITA-Serie A,1920,Juventus,Juventus,682,470
+ITA-Serie A,1920,Lazio,Lazio,583,515
+ITA-Serie A,1920,Lecce,Lecce,526,704
+ITA-Serie A,1920,Milan,AC_Milan,622,444
+ITA-Serie A,1920,Napoli,Napoli,687,406
+ITA-Serie A,1920,Parma,Parma,420,530
+ITA-Serie A,1920,Roma,Roma,648,427
+ITA-Serie A,1920,SPAL,SPAL_2013,468,658
+ITA-Serie A,1920,Sampdoria,Sampdoria,559,510
+ITA-Serie A,1920,Sassuolo,Sassuolo,548,520
+ITA-Serie A,1920,Torino,Torino,449,621
+ITA-Serie A,1920,Udinese,Udinese,468,586
+ESP-La Liga,1415,Almería,Almería,396,543
+ESP-La Liga,1415,Athletic Club,Athletic_Club,444,384
+ESP-La Liga,1415,Atlético Madrid,Atlético_Madrid,439,327
+ESP-La Liga,1415,Barcelona,Barcelona,627,307
+ESP-La Liga,1415,Celta Vigo,Celta_Vigo,499,421
+ESP-La Liga,1415,Córdoba,Córdoba,390,538
+ESP-La Liga,1415,Dep. La Coruña,Deportivo_La_Coruna,401,444
+ESP-La Liga,1415,Eibar,Eibar,355,548
+ESP-La Liga,1415,Elche,Elche,407,482
+ESP-La Liga,1415,Espanyol,Espanyol,368,451
+ESP-La Liga,1415,Getafe,Getafe,422,498
+ESP-La Liga,1415,Granada,Granada,401,438
+ESP-La Liga,1415,Levante,Levante,404,485
+ESP-La Liga,1415,Málaga,Málaga,463,389
+ESP-La Liga,1415,Rayo Vallecano,Rayo_Vallecano,492,467
+ESP-La Liga,1415,Real Madrid,Real_Madrid,688,454
+ESP-La Liga,1415,Real Sociedad,Real_Sociedad,432,510
+ESP-La Liga,1415,Sevilla,Sevilla,466,482
+ESP-La Liga,1415,Valencia,Valencia,445,412
+ESP-La Liga,1415,Villarreal,Villarreal,507,466
+ENG-Premier League,1415,Arsenal,Arsenal,612,407
+ENG-Premier League,1415,Aston Villa,Aston_Villa,417,481
+ENG-Premier League,1415,Burnley,Burnley,431,594
+ENG-Premier League,1415,Chelsea,Chelsea,565,417
+ENG-Premier League,1415,Crystal Palace,Crystal_Palace,443,526
+ENG-Premier League,1415,Everton,Everton,485,505
+ENG-Premier League,1415,Hull City,Hull,430,503
+ENG-Premier League,1415,Leicester City,Leicester,458,563
+ENG-Premier League,1415,Liverpool,Liverpool,594,417
+ENG-Premier League,1415,Manchester City,Manchester_City,671,390
+ENG-Premier League,1415,Manchester Utd,Manchester_United,515,383
+ENG-Premier League,1415,Newcastle,Newcastle_United,468,447
+ENG-Premier League,1415,QPR,Queens_Park_Rangers,538,626
+ENG-Premier League,1415,Southampton,Southampton,515,385
+ENG-Premier League,1415,Stoke City,Stoke,503,455
+ENG-Premier League,1415,Sunderland,Sunderland,409,631
+ENG-Premier League,1415,Swansea City,Swansea,429,555
+ENG-Premier League,1415,Tottenham,Tottenham,529,492
+ENG-Premier League,1415,West Brom,West_Bromwich_Albion,412,547
+ENG-Premier League,1415,West Ham,West_Ham,490,590
+ESP-La Liga,2021,Alavés,Alavés,349,399
+ESP-La Liga,2021,Athletic Club,Athletic_Club,407,378
+ESP-La Liga,2021,Atlético Madrid,Atlético_Madrid,462,363
+ESP-La Liga,2021,Barcelona,Barcelona,587,331
+ESP-La Liga,2021,Celta Vigo,Celta_Vigo,358,414
+ESP-La Liga,2021,Cádiz,Cádiz,306,450
+ESP-La Liga,2021,Eibar,Eibar,452,350
+ESP-La Liga,2021,Elche,Elche,269,474
+ESP-La Liga,2021,Getafe,Getafe,363,323
+ESP-La Liga,2021,Granada,Granada,358,481
+ESP-La Liga,2021,Huesca,SD_Huesca,405,422
+ESP-La Liga,2021,Levante,Levante,383,465
+ESP-La Liga,2021,Osasuna,Osasuna,375,433
+ESP-La Liga,2021,Real Betis,Real_Betis,443,369
+ESP-La Liga,2021,Real Madrid,Real_Madrid,550,360
+ESP-La Liga,2021,Real Sociedad,Real_Sociedad,431,337
+ESP-La Liga,2021,Sevilla,Sevilla,461,353
+ESP-La Liga,2021,Valencia,Valencia,397,548
+ESP-La Liga,2021,Valladolid,Real_Valladolid,367,473
+ESP-La Liga,2021,Villarreal,Villarreal,409,409
+ENG-Premier League,2021,Arsenal,Arsenal,460,420
+ENG-Premier League,2021,Aston Villa,Aston_Villa,524,540
+ENG-Premier League,2021,Brighton,Brighton,488,360
+ENG-Premier League,2021,Burnley,Burnley,385,570
+ENG-Premier League,2021,Chelsea,Chelsea,560,337
+ENG-Premier League,2021,Crystal Palace,Crystal_Palace,351,540
+ENG-Premier League,2021,Everton,Everton,402,504
+ENG-Premier League,2021,Fulham,Fulham,443,430
+ENG-Premier League,2021,Leeds United,Leeds,524,561
+ENG-Premier League,2021,Leicester City,Leicester,487,368
+ENG-Premier League,2021,Liverpool,Liverpool,611,333
+ENG-Premier League,2021,Manchester City,Manchester_City,601,285
+ENG-Premier League,2021,Manchester Utd,Manchester_United,528,431
+ENG-Premier League,2021,Newcastle,Newcastle_United,398,575
+ENG-Premier League,2021,Sheffield United,Sheffield_United,326,545
+ENG-Premier League,2021,Southampton,Southampton,423,429
+ENG-Premier League,2021,Tottenham,Tottenham,446,491
+ENG-Premier League,2021,West Brom,West_Bromwich_Albion,341,603
+ENG-Premier League,2021,West Ham,West_Ham,471,468
+ENG-Premier League,2021,Wolves,Wolverhampton_Wanderers,466,445
+FRA-Ligue 1,1516,Angers,Angers,397,423
+FRA-Ligue 1,1516,Bastia,SC_Bastia,334,431
+FRA-Ligue 1,1516,Bordeaux,Bordeaux,441,411
+FRA-Ligue 1,1516,Caen,Caen,472,475
+FRA-Ligue 1,1516,Gazélec Ajaccio,GFC_Ajaccio,442,414
+FRA-Ligue 1,1516,Guingamp,Guingamp,400,484
+FRA-Ligue 1,1516,Lille,Lille,478,387
+FRA-Ligue 1,1516,Lorient,Lorient,416,511
+FRA-Ligue 1,1516,Lyon,Lyon,560,362
+FRA-Ligue 1,1516,Marseille,Marseille,477,421
+FRA-Ligue 1,1516,Monaco,Monaco,427,476
+FRA-Ligue 1,1516,Montpellier,Montpellier,398,418
+FRA-Ligue 1,1516,Nantes,Nantes,433,400
+FRA-Ligue 1,1516,Nice,Nice,391,426
+FRA-Ligue 1,1516,PSG,Paris_Saint_Germain,566,365
+FRA-Ligue 1,1516,Reims,Reims,437,450
+FRA-Ligue 1,1516,Rennes,Rennes,421,468
+FRA-Ligue 1,1516,Saint-Étienne,Saint-Étienne,439,438
+FRA-Ligue 1,1516,Toulouse,Toulouse,431,415
+FRA-Ligue 1,1516,Troyes,Troyes,448,633
+ITA-Serie A,1415,Atalanta,Atalanta,462,570
+ITA-Serie A,1415,Cagliari,Cagliari,498,502
+ITA-Serie A,1415,Cesena,Cesena,362,587
+ITA-Serie A,1415,Chievo,Chievo,459,582
+ITA-Serie A,1415,Empoli,Empoli,519,523
+ITA-Serie A,1415,Fiorentina,Fiorentina,616,462
+ITA-Serie A,1415,Genoa,Genoa,493,499
+ITA-Serie A,1415,Hellas Verona,Verona,462,627
+ITA-Serie A,1415,Inter,Inter,616,457
+ITA-Serie A,1415,Juventus,Juventus,603,402
+ITA-Serie A,1415,Lazio,Lazio,552,370
+ITA-Serie A,1415,Milan,AC_Milan,452,559
+ITA-Serie A,1415,Napoli,Napoli,629,388
+ITA-Serie A,1415,Palermo,Palermo,480,497
+ITA-Serie A,1415,Parma,Parma,420,530
+ITA-Serie A,1415,Roma,Roma,526,392
+ITA-Serie A,1415,Sampdoria,Sampdoria,505,519
+ITA-Serie A,1415,Sassuolo,Sassuolo,451,502
+ITA-Serie A,1415,Torino,Torino,546,525
+ITA-Serie A,1415,Udinese,Udinese,428,586
+FRA-Ligue 1,1819,Amiens,Amiens,388,501
+FRA-Ligue 1,1819,Angers,Angers,456,460
+FRA-Ligue 1,1819,Bordeaux,Bordeaux,428,498
+FRA-Ligue 1,1819,Caen,Caen,335,543
+FRA-Ligue 1,1819,Dijon,Dijon,453,544
+FRA-Ligue 1,1819,Guingamp,Guingamp,415,468
+FRA-Ligue 1,1819,Lille,Lille,499,374
+FRA-Ligue 1,1819,Lyon,Lyon,672,481
+FRA-Ligue 1,1819,Marseille,Marseille,529,399
+FRA-Ligue 1,1819,Monaco,Monaco,468,428
+FRA-Ligue 1,1819,Montpellier,Montpellier,510,451
+FRA-Ligue 1,1819,Nantes,Nantes,518,407
+FRA-Ligue 1,1819,Nice,Nice,441,502
+FRA-Ligue 1,1819,Nîmes,Nîmes,521,487
+FRA-Ligue 1,1819,PSG,Paris_Saint_Germain,566,402
+FRA-Ligue 1,1819,Reims,Reims,406,453
+FRA-Ligue 1,1819,Rennes,Rennes,473,478
+FRA-Ligue 1,1819,Saint-Étienne,Saint-Étienne,499,474
+FRA-Ligue 1,1819,Strasbourg,Strasbourg,405,498
+FRA-Ligue 1,1819,Toulouse,Toulouse,434,568
+ITA-Serie A,2021,Atalanta,Atalanta,621,326
+ITA-Serie A,2021,Benevento,Benevento,418,509
+ITA-Serie A,2021,Bologna,Bologna,499,543
+ITA-Serie A,2021,Cagliari,Cagliari,430,555
+ITA-Serie A,2021,Crotone,Crotone,366,596
+ITA-Serie A,2021,Fiorentina,Fiorentina,376,455
+ITA-Serie A,2021,Genoa,Genoa,341,543
+ITA-Serie A,2021,Hellas Verona,Verona,407,537
+ITA-Serie A,2021,Inter,Inter,558,390
+ITA-Serie A,2021,Juventus,Juventus,594,436
+ITA-Serie A,2021,Lazio,Lazio,527,403
+ITA-Serie A,2021,Milan,AC_Milan,560,465
+ITA-Serie A,2021,Napoli,Napoli,650,391
+ITA-Serie A,2021,Parma,Parma,420,530
+ITA-Serie A,2021,Roma,Roma,545,399
+ITA-Serie A,2021,Sampdoria,Sampdoria,426,519
+ITA-Serie A,2021,Sassuolo,Sassuolo,533,525
+ITA-Serie A,2021,Spezia,Spezia,390,425
+ITA-Serie A,2021,Torino,Torino,460,509
+ITA-Serie A,2021,Udinese,Udinese,417,462
+GER-Bundesliga,1920,Augsburg,Augsburg,363,477
+GER-Bundesliga,1920,Bayern Munich,Bayern_Munich,618,318
+GER-Bundesliga,1920,Dortmund,Borussia_Dortmund,445,353
+GER-Bundesliga,1920,Düsseldorf,Fortuna_Duesseldorf,428,472
+GER-Bundesliga,1920,Frankfurt,Eintracht_Frankfurt,504,443
+GER-Bundesliga,1920,Freiburg,Freiburg,449,604
+GER-Bundesliga,1920,Gladbach,Borussia_M.Gladbach,482,465
+GER-Bundesliga,1920,Hertha BSC,Hertha_Berlin,363,483
+GER-Bundesliga,1920,Hoffenheim,Hoffenheim,453,500
+GER-Bundesliga,1920,Köln,FC_Cologne,416,453
+GER-Bundesliga,1920,Leverkusen,Bayer_Leverkusen,497,379
+GER-Bundesliga,1920,Mainz 05,Mainz_05,455,509
+GER-Bundesliga,1920,Paderborn 07,Paderborn,431,496
+GER-Bundesliga,1920,RB Leipzig,RasenBallsport_Leipzig,552,352
+GER-Bundesliga,1920,Schalke 04,Schalke_04,387,468
+GER-Bundesliga,1920,Union Berlin,Union_Berlin,405,494
+GER-Bundesliga,1920,Werder Bremen,Werder_Bremen,426,502
+GER-Bundesliga,1920,Wolfsburg,Wolfsburg,474,380
+ESP-La Liga,1516,Athletic Club,Athletic_Club,457,382
+ESP-La Liga,1516,Atlético Madrid,Atlético_Madrid,477,368
+ESP-La Liga,1516,Barcelona,Barcelona,608,367
+ESP-La Liga,1516,Celta Vigo,Celta_Vigo,443,467
+ESP-La Liga,1516,Dep. La Coruña,Deportivo_La_Coruna,459,410
+ESP-La Liga,1516,Eibar,Eibar,420,389
+ESP-La Liga,1516,Espanyol,Espanyol,394,492
+ESP-La Liga,1516,Getafe,Getafe,438,475
+ESP-La Liga,1516,Granada,Granada,432,440
+ESP-La Liga,1516,Las Palmas,Las_Palmas,422,480
+ESP-La Liga,1516,Levante,Levante,433,509
+ESP-La Liga,1516,Málaga,Málaga,453,409
+ESP-La Liga,1516,Rayo Vallecano,Rayo_Vallecano,502,474
+ESP-La Liga,1516,Real Betis,Real_Betis,397,518
+ESP-La Liga,1516,Real Madrid,Real_Madrid,713,431
+ESP-La Liga,1516,Real Sociedad,Real_Sociedad,456,419
+ESP-La Liga,1516,Sevilla,Sevilla,460,542
+ESP-La Liga,1516,Sporting Gijón,Sporting_Gijón,373,539
+ESP-La Liga,1516,Valencia,Valencia,402,517
+ESP-La Liga,1516,Villarreal,Villarreal,343,454
+ENG-Premier League,1516,Arsenal,Arsenal,575,453
+ENG-Premier League,1516,Aston Villa,Aston_Villa,383,504
+ENG-Premier League,1516,Bournemouth,Bournemouth,466,439
+ENG-Premier League,1516,Chelsea,Chelsea,530,485
+ENG-Premier League,1516,Crystal Palace,Crystal_Palace,470,572
+ENG-Premier League,1516,Everton,Everton,494,555
+ENG-Premier League,1516,Leicester City,Leicester,523,518
+ENG-Premier League,1516,Liverpool,Liverpool,630,400
+ENG-Premier League,1516,Manchester City,Manchester_City,615,338
+ENG-Premier League,1516,Manchester Utd,Manchester_United,433,413
+ENG-Premier League,1516,Newcastle,Newcastle_United,398,554
+ENG-Premier League,1516,Norwich City,Norwich,419,492
+ENG-Premier League,1516,Southampton,Southampton,521,462
+ENG-Premier League,1516,Stoke City,Stoke,419,535
+ENG-Premier League,1516,Sunderland,Sunderland,443,572
+ENG-Premier League,1516,Swansea City,Swansea,442,526
+ENG-Premier League,1516,Tottenham,Tottenham,659,425
+ENG-Premier League,1516,Watford,Watford,449,502
+ENG-Premier League,1516,West Brom,West_Bromwich_Albion,391,550
+ENG-Premier League,1516,West Ham,West_Ham,559,524
+GER-Bundesliga,2223,Augsburg,Augsburg,357,542
+GER-Bundesliga,2223,Bayern Munich,Bayern_Munich,632,313
+GER-Bundesliga,2223,Bochum,Bochum,400,535
+GER-Bundesliga,2223,Dortmund,Borussia_Dortmund,563,408
+GER-Bundesliga,2223,Frankfurt,Eintracht_Frankfurt,408,372
+GER-Bundesliga,2223,Freiburg,Freiburg,421,444
+GER-Bundesliga,2223,Gladbach,Borussia_M.Gladbach,408,485
+GER-Bundesliga,2223,Hertha BSC,Hertha_Berlin,385,473
+GER-Bundesliga,2223,Hoffenheim,Hoffenheim,403,481
+GER-Bundesliga,2223,Köln,FC_Cologne,420,380
+GER-Bundesliga,2223,Leverkusen,Bayer_Leverkusen,439,396
+GER-Bundesliga,2223,Mainz 05,Mainz_05,419,436
+GER-Bundesliga,2223,RB Leipzig,RasenBallsport_Leipzig,504,316
+GER-Bundesliga,2223,Schalke 04,Schalke_04,429,494
+GER-Bundesliga,2223,Stuttgart,VfB_Stuttgart,464,399
+GER-Bundesliga,2223,Union Berlin,Union_Berlin,380,389
+GER-Bundesliga,2223,Werder Bremen,Werder_Bremen,371,481
+GER-Bundesliga,2223,Wolfsburg,Wolfsburg,412,471
+FRA-Ligue 1,2324,Brest,Brest,484,358
+FRA-Ligue 1,2324,Clermont Foot,Clermont_Foot,388,537
+FRA-Ligue 1,2324,Le Havre,Le_Havre,390,461
+FRA-Ligue 1,2324,Lens,Lens,494,395
+FRA-Ligue 1,2324,Lille,Lille,443,333
+FRA-Ligue 1,2324,Lorient,Lorient,371,534
+FRA-Ligue 1,2324,Lyon,Lyon,444,462
+FRA-Ligue 1,2324,Marseille,Marseille,483,376
+FRA-Ligue 1,2324,Metz,Metz,331,515
+FRA-Ligue 1,2324,Monaco,Monaco,519,395
+FRA-Ligue 1,2324,Montpellier,Montpellier,450,543
+FRA-Ligue 1,2324,Nantes,Nantes,380,429
+FRA-Ligue 1,2324,Nice,Nice,459,367
+FRA-Ligue 1,2324,PSG,Paris_Saint_Germain,516,412
+FRA-Ligue 1,2324,Reims,Reims,418,436
+FRA-Ligue 1,2324,Rennes,Rennes,486,393
+FRA-Ligue 1,2324,Strasbourg,Strasbourg,368,420
+FRA-Ligue 1,2324,Toulouse,Toulouse,403,461
+ESP-La Liga,1819,Alavés,Alavés,430,506
+ESP-La Liga,1819,Athletic Club,Athletic_Club,389,397
+ESP-La Liga,1819,Atlético Madrid,Atlético_Madrid,446,436
+ESP-La Liga,1819,Barcelona,Barcelona,564,413
+ESP-La Liga,1819,Celta Vigo,Celta_Vigo,452,481
+ESP-La Liga,1819,Eibar,Eibar,528,333
+ESP-La Liga,1819,Espanyol,Espanyol,476,520
+ESP-La Liga,1819,Getafe,Getafe,403,383
+ESP-La Liga,1819,Girona,Girona,401,527
+ESP-La Liga,1819,Huesca,SD_Huesca,473,472
+ESP-La Liga,1819,Leganés,Leganés,421,410
+ESP-La Liga,1819,Levante,Levante,445,691
+ESP-La Liga,1819,Rayo Vallecano,Rayo_Vallecano,459,448
+ESP-La Liga,1819,Real Betis,Real_Betis,444,427
+ESP-La Liga,1819,Real Madrid,Real_Madrid,596,387
+ESP-La Liga,1819,Real Sociedad,Real_Sociedad,427,447
+ESP-La Liga,1819,Sevilla,Sevilla,531,457
+ESP-La Liga,1819,Valencia,Valencia,479,487
+ESP-La Liga,1819,Valladolid,Real_Valladolid,413,495
+ESP-La Liga,1819,Villarreal,Villarreal,496,556
+ENG-Premier League,1819,Arsenal,Arsenal,471,500
+ENG-Premier League,1819,Bournemouth,Bournemouth,447,524
+ENG-Premier League,1819,Brighton,Brighton,371,582
+ENG-Premier League,1819,Burnley,Burnley,361,657
+ENG-Premier League,1819,Cardiff City,Cardiff,418,571
+ENG-Premier League,1819,Chelsea,Chelsea,608,348
+ENG-Premier League,1819,Crystal Palace,Crystal_Palace,496,526
+ENG-Premier League,1819,Everton,Everton,497,404
+ENG-Premier League,1819,Fulham,Fulham,455,588
+ENG-Premier League,1819,Huddersfield,Huddersfield,402,523
+ENG-Premier League,1819,Leicester City,Leicester,518,427
+ENG-Premier League,1819,Liverpool,Liverpool,578,307
+ENG-Premier League,1819,Manchester City,Manchester_City,687,238
+ENG-Premier League,1819,Manchester Utd,Manchester_United,526,499
+ENG-Premier League,1819,Newcastle,Newcastle_United,446,490
+ENG-Premier League,1819,Southampton,Southampton,486,524
+ENG-Premier League,1819,Tottenham,Tottenham,538,465
+ENG-Premier League,1819,Watford,Watford,437,494
+ENG-Premier League,1819,West Ham,West_Ham,442,529
+ENG-Premier League,1819,Wolves,Wolverhampton_Wanderers,477,465
+GER-Bundesliga,1415,Augsburg,Augsburg,458,460
+GER-Bundesliga,1415,Bayern Munich,Bayern_Munich,587,254
+GER-Bundesliga,1415,Dortmund,Borussia_Dortmund,570,293
+GER-Bundesliga,1415,Frankfurt,Eintracht_Frankfurt,430,433
+GER-Bundesliga,1415,Freiburg,Freiburg,386,523
+GER-Bundesliga,1415,Gladbach,Borussia_M.Gladbach,430,524
+GER-Bundesliga,1415,Hamburger SV,Hamburger_SV,371,497
+GER-Bundesliga,1415,Hannover 96,Hannover_96,385,465
+GER-Bundesliga,1415,Hertha BSC,Hertha_Berlin,300,429
+GER-Bundesliga,1415,Hoffenheim,Hoffenheim,504,456
+GER-Bundesliga,1415,Köln,FC_Cologne,368,471
+GER-Bundesliga,1415,Leverkusen,Bayer_Leverkusen,554,300
+GER-Bundesliga,1415,Mainz 05,Mainz_05,440,483
+GER-Bundesliga,1415,Paderborn 07,Paderborn,457,496
+GER-Bundesliga,1415,Schalke 04,Schalke_04,423,536
+GER-Bundesliga,1415,Stuttgart,VfB_Stuttgart,412,471
+GER-Bundesliga,1415,Werder Bremen,Werder_Bremen,417,503
+GER-Bundesliga,1415,Wolfsburg,Wolfsburg,521,419
+ITA-Serie A,1516,Atalanta,Atalanta,457,469
+ITA-Serie A,1516,Bologna,Bologna,385,469
+ITA-Serie A,1516,Carpi,Carpi,434,505
+ITA-Serie A,1516,Chievo,Chievo,426,594
+ITA-Serie A,1516,Empoli,Empoli,481,533
+ITA-Serie A,1516,Fiorentina,Fiorentina,577,345
+ITA-Serie A,1516,Frosinone,Frosinone,489,775
+ITA-Serie A,1516,Genoa,Genoa,470,516
+ITA-Serie A,1516,Hellas Verona,Verona,454,521
+ITA-Serie A,1516,Inter,Inter,517,467
+ITA-Serie A,1516,Juventus,Juventus,602,340
+ITA-Serie A,1516,Lazio,Lazio,516,427
+ITA-Serie A,1516,Milan,AC_Milan,548,455
+ITA-Serie A,1516,Napoli,Napoli,658,342
+ITA-Serie A,1516,Palermo,Palermo,412,614
+ITA-Serie A,1516,Roma,Roma,582,433
+ITA-Serie A,1516,Sampdoria,Sampdoria,435,601
+ITA-Serie A,1516,Sassuolo,Sassuolo,488,473
+ITA-Serie A,1516,Torino,Torino,473,447
+ITA-Serie A,1516,Udinese,Udinese,445,523
+FRA-Ligue 1,2526,Angers,Angers,318,492
+FRA-Ligue 1,2526,Auxerre,Auxerre,367,409
+FRA-Ligue 1,2526,Brest,Brest,381,473
+FRA-Ligue 1,2526,Le Havre,Le_Havre,373,443
+FRA-Ligue 1,2526,Lens,Lens,563,378
+FRA-Ligue 1,2526,Lille,Lille,465,309
+FRA-Ligue 1,2526,Lorient,Lorient,386,381
+FRA-Ligue 1,2526,Lyon,Lyon,418,409
+FRA-Ligue 1,2526,Marseille,Marseille,512,364
+FRA-Ligue 1,2526,Metz,Metz,343,525
+FRA-Ligue 1,2526,Monaco,Monaco,429,458
+FRA-Ligue 1,2526,Nantes,Nantes,377,449
+FRA-Ligue 1,2526,Nice,Nice,383,509
+FRA-Ligue 1,2526,PSG,Paris_Saint_Germain,602,298
+FRA-Ligue 1,2526,Paris FC,Paris_FC,399,424
+FRA-Ligue 1,2526,Rennes,Rennes,484,459
+FRA-Ligue 1,2526,Strasbourg,Strasbourg,390,430
+FRA-Ligue 1,2526,Toulouse,Toulouse,427,407
+FRA-Ligue 1,1617,Angers,Angers,530,412
+FRA-Ligue 1,1617,Bastia,SC_Bastia,381,482
+FRA-Ligue 1,1617,Bordeaux,Bordeaux,452,459
+FRA-Ligue 1,1617,Caen,Caen,464,474
+FRA-Ligue 1,1617,Dijon,Dijon,431,558
+FRA-Ligue 1,1617,Guingamp,Guingamp,445,488
+FRA-Ligue 1,1617,Lille,Lille,488,438
+FRA-Ligue 1,1617,Lorient,Lorient,428,454
+FRA-Ligue 1,1617,Lyon,Lyon,576,418
+FRA-Ligue 1,1617,Marseille,Marseille,466,454
+FRA-Ligue 1,1617,Metz,Metz,360,593
+FRA-Ligue 1,1617,Monaco,Monaco,559,368
+FRA-Ligue 1,1617,Montpellier,Montpellier,502,434
+FRA-Ligue 1,1617,Nancy,Nancy,377,487
+FRA-Ligue 1,1617,Nantes,Nantes,457,420
+FRA-Ligue 1,1617,Nice,Nice,436,504
+FRA-Ligue 1,1617,PSG,Paris_Saint_Germain,588,348
+FRA-Ligue 1,1617,Rennes,Rennes,438,404
+FRA-Ligue 1,1617,Saint-Étienne,Saint-Étienne,405,489
+FRA-Ligue 1,1617,Toulouse,Toulouse,381,480
+FRA-Ligue 1,2122,Angers,Angers,396,434
+FRA-Ligue 1,2122,Bordeaux,Bordeaux,454,522
+FRA-Ligue 1,2122,Brest,Brest,401,496
+FRA-Ligue 1,2122,Clermont Foot,Clermont_Foot,440,443
+FRA-Ligue 1,2122,Lens,Lens,514,414
+FRA-Ligue 1,2122,Lille,Lille,466,448
+FRA-Ligue 1,2122,Lorient,Lorient,446,467
+FRA-Ligue 1,2122,Lyon,Lyon,553,467
+FRA-Ligue 1,2122,Marseille,Marseille,499,331
+FRA-Ligue 1,2122,Metz,Metz,370,562
+FRA-Ligue 1,2122,Monaco,Monaco,456,418
+FRA-Ligue 1,2122,Montpellier,Montpellier,435,601
+FRA-Ligue 1,2122,Nantes,Nantes,428,475
+FRA-Ligue 1,2122,Nice,Nice,450,434
+FRA-Ligue 1,2122,PSG,Paris_Saint_Germain,565,412
+FRA-Ligue 1,2122,Reims,Reims,396,514
+FRA-Ligue 1,2122,Rennes,Rennes,552,357
+FRA-Ligue 1,2122,Saint-Étienne,Saint-Étienne,439,462
+FRA-Ligue 1,2122,Strasbourg,Strasbourg,483,409
+FRA-Ligue 1,2122,Troyes,Troyes,389,465
+ESP-La Liga,2324,Alavés,Alavés,468,453
+ESP-La Liga,2324,Almería,Almería,480,593
+ESP-La Liga,2324,Athletic Club,Athletic_Club,465,411
+ESP-La Liga,2324,Atlético Madrid,Atlético_Madrid,481,451
+ESP-La Liga,2324,Barcelona,Barcelona,595,413
+ESP-La Liga,2324,Celta Vigo,Celta_Vigo,472,479
+ESP-La Liga,2324,Cádiz,Cádiz,398,509
+ESP-La Liga,2324,Getafe,Getafe,452,450
+ESP-La Liga,2324,Girona,Girona,485,509
+ESP-La Liga,2324,Granada,Granada,403,496
+ESP-La Liga,2324,Las Palmas,Las_Palmas,390,446
+ESP-La Liga,2324,Mallorca,Mallorca,418,480
+ESP-La Liga,2324,Osasuna,Osasuna,427,437
+ESP-La Liga,2324,Rayo Vallecano,Rayo_Vallecano,490,443
+ESP-La Liga,2324,Real Betis,Real_Betis,491,453
+ESP-La Liga,2324,Real Madrid,Real_Madrid,599,391
+ESP-La Liga,2324,Real Sociedad,Real_Sociedad,464,397
+ESP-La Liga,2324,Sevilla,Sevilla,491,502
+ESP-La Liga,2324,Valencia,Valencia,375,412
+ESP-La Liga,2324,Villarreal,Villarreal,467,586
+ENG-Premier League,2324,Arsenal,Arsenal,662,323
+ENG-Premier League,2324,Aston Villa,Aston_Villa,516,458
+ENG-Premier League,2324,Bournemouth,Bournemouth,544,532
+ENG-Premier League,2324,Brentford,Brentford,476,547
+ENG-Premier League,2324,Brighton,Brighton,567,469
+ENG-Premier League,2324,Burnley,Burnley,434,617
+ENG-Premier League,2324,Chelsea,Chelsea,549,559
+ENG-Premier League,2324,Crystal Palace,Crystal_Palace,456,462
+ENG-Premier League,2324,Everton,Everton,506,539
+ENG-Premier League,2324,Fulham,Fulham,499,527
+ENG-Premier League,2324,Liverpool,Liverpool,796,415
+ENG-Premier League,2324,Luton Town,Luton,434,663
+ENG-Premier League,2324,Manchester City,Manchester_City,697,294
+ENG-Premier League,2324,Manchester Utd,Manchester_United,549,667
+ENG-Premier League,2324,Newcastle,Newcastle_United,552,533
+ENG-Premier League,2324,Nottingham,Nottingham_Forest,451,511
+ENG-Premier League,2324,Sheffield United,Sheffield_United,368,684
+ENG-Premier League,2324,Tottenham,Tottenham,587,490
+ENG-Premier League,2324,West Ham,West_Ham,451,657
+ENG-Premier League,2324,Wolves,Wolverhampton_Wanderers,430,577
+GER-Bundesliga,2021,Arminia,Arminia_Bielefeld,337,448
+GER-Bundesliga,2021,Augsburg,Augsburg,338,493
+GER-Bundesliga,2021,Bayern Munich,Bayern_Munich,577,345
+GER-Bundesliga,2021,Dortmund,Borussia_Dortmund,496,377
+GER-Bundesliga,2021,Frankfurt,Eintracht_Frankfurt,453,436
+GER-Bundesliga,2021,Freiburg,Freiburg,392,505
+GER-Bundesliga,2021,Gladbach,Borussia_M.Gladbach,455,455
+GER-Bundesliga,2021,Hertha BSC,Hertha_Berlin,384,429
+GER-Bundesliga,2021,Hoffenheim,Hoffenheim,429,384
+GER-Bundesliga,2021,Köln,FC_Cologne,363,418
+GER-Bundesliga,2021,Leverkusen,Bayer_Leverkusen,445,347
+GER-Bundesliga,2021,Mainz 05,Mainz_05,378,453
+GER-Bundesliga,2021,RB Leipzig,RasenBallsport_Leipzig,541,265
+GER-Bundesliga,2021,Schalke 04,Schalke_04,303,593
+GER-Bundesliga,2021,Stuttgart,VfB_Stuttgart,460,456
+GER-Bundesliga,2021,Union Berlin,Union_Berlin,397,369
+GER-Bundesliga,2021,Werder Bremen,Werder_Bremen,361,459
+GER-Bundesliga,2021,Wolfsburg,Wolfsburg,481,358
+ITA-Serie A,1819,Atalanta,Atalanta,643,415
+ITA-Serie A,1819,Bologna,Bologna,501,539
+ITA-Serie A,1819,Cagliari,Cagliari,435,595
+ITA-Serie A,1819,Chievo,Chievo,389,600
+ITA-Serie A,1819,Empoli,Empoli,461,633
+ITA-Serie A,1819,Fiorentina,Fiorentina,585,470
+ITA-Serie A,1819,Frosinone,Frosinone,456,636
+ITA-Serie A,1819,Genoa,Genoa,535,520
+ITA-Serie A,1819,Inter,Inter,637,421
+ITA-Serie A,1819,Juventus,Juventus,613,445
+ITA-Serie A,1819,Lazio,Lazio,613,473
+ITA-Serie A,1819,Milan,AC_Milan,590,467
+ITA-Serie A,1819,Napoli,Napoli,706,434
+ITA-Serie A,1819,Parma,Parma,420,530
+ITA-Serie A,1819,Roma,Roma,620,543
+ITA-Serie A,1819,SPAL,SPAL_2013,463,542
+ITA-Serie A,1819,Sampdoria,Sampdoria,486,514
+ITA-Serie A,1819,Sassuolo,Sassuolo,514,490
+ITA-Serie A,1819,Torino,Torino,521,474
+ITA-Serie A,1819,Udinese,Udinese,464,620
+ITA-Serie A,2324,Atalanta,Atalanta,545,453
+ITA-Serie A,2324,Bologna,Bologna,478,411
+ITA-Serie A,2324,Cagliari,Cagliari,448,492
+ITA-Serie A,2324,Empoli,Empoli,421,565
+ITA-Serie A,2324,Fiorentina,Fiorentina,521,380
+ITA-Serie A,2324,Frosinone,Frosinone,472,562
+ITA-Serie A,2324,Genoa,Genoa,403,504
+ITA-Serie A,2324,Hellas Verona,Verona,442,513
+ITA-Serie A,2324,Inter,Inter,597,396
+ITA-Serie A,2324,Juventus,Juventus,537,445
+ITA-Serie A,2324,Lazio,Lazio,443,486
+ITA-Serie A,2324,Lecce,Lecce,512,515
+ITA-Serie A,2324,Milan,AC_Milan,563,498
+ITA-Serie A,2324,Monza,Monza,458,552
+ITA-Serie A,2324,Napoli,Napoli,650,396
+ITA-Serie A,2324,Roma,Roma,477,487
+ITA-Serie A,2324,Salernitana,Salernitana,400,602
+ITA-Serie A,2324,Sassuolo,Sassuolo,463,552
+ITA-Serie A,2324,Torino,Torino,436,421
+ITA-Serie A,2324,Udinese,Udinese,462,498
+FRA-Ligue 1,2425,Angers,Angers,317,482
+FRA-Ligue 1,2425,Auxerre,Auxerre,381,457
+FRA-Ligue 1,2425,Brest,Brest,420,414
+FRA-Ligue 1,2425,Le Havre,Le_Havre,350,485
+FRA-Ligue 1,2425,Lens,Lens,490,378
+FRA-Ligue 1,2425,Lille,Lille,434,338
+FRA-Ligue 1,2425,Lyon,Lyon,447,450
+FRA-Ligue 1,2425,Marseille,Marseille,493,327
+FRA-Ligue 1,2425,Monaco,Monaco,498,337
+FRA-Ligue 1,2425,Montpellier,Montpellier,374,534
+FRA-Ligue 1,2425,Nantes,Nantes,349,429
+FRA-Ligue 1,2425,Nice,Nice,495,457
+FRA-Ligue 1,2425,PSG,Paris_Saint_Germain,639,314
+FRA-Ligue 1,2425,Reims,Reims,397,501
+FRA-Ligue 1,2425,Rennes,Rennes,431,377
+FRA-Ligue 1,2425,Saint-Étienne,Saint-Étienne,370,555
+FRA-Ligue 1,2425,Strasbourg,Strasbourg,359,460
+FRA-Ligue 1,2425,Toulouse,Toulouse,403,352
+ESP-La Liga,2526,Alavés,Alavés,465,475
+ESP-La Liga,2526,Athletic Club,Athletic_Club,522,358
+ESP-La Liga,2526,Atlético Madrid,Atlético_Madrid,502,441
+ESP-La Liga,2526,Barcelona,Barcelona,693,347
+ESP-La Liga,2526,Celta Vigo,Celta_Vigo,384,478
+ESP-La Liga,2526,Elche,Elche,410,524
+ESP-La Liga,2526,Espanyol,Espanyol,480,520
+ESP-La Liga,2526,Getafe,Getafe,350,422
+ESP-La Liga,2526,Girona,Girona,426,553
+ESP-La Liga,2526,Levante,Levante,477,587
+ESP-La Liga,2526,Mallorca,Mallorca,412,543
+ESP-La Liga,2526,Osasuna,Osasuna,452,474
+ESP-La Liga,2526,Oviedo,Real_Oviedo,391,572
+ESP-La Liga,2526,Rayo Vallecano,Rayo_Vallecano,530,466
+ESP-La Liga,2526,Real Betis,Real_Betis,540,468
+ESP-La Liga,2526,Real Madrid,Real_Madrid,664,409
+ESP-La Liga,2526,Real Sociedad,Real_Sociedad,472,532
+ESP-La Liga,2526,Sevilla,Sevilla,440,400
+ESP-La Liga,2526,Valencia,Valencia,450,450
+ESP-La Liga,2526,Villarreal,Villarreal,463,504
+ENG-Premier League,2526,Arsenal,Arsenal,557,311
+ENG-Premier League,2526,Aston Villa,Aston_Villa,485,491
+ENG-Premier League,2526,Bournemouth,Bournemouth,526,482
+ENG-Premier League,2526,Brentford,Brentford,408,501
+ENG-Premier League,2526,Brighton,Brighton,495,448
+ENG-Premier League,2526,Burnley,Burnley,357,640
+ENG-Premier League,2526,Chelsea,Chelsea,510,416
+ENG-Premier League,2526,Crystal Palace,Crystal_Palace,443,446
+ENG-Premier League,2526,Everton,Everton,423,531
+ENG-Premier League,2526,Fulham,Fulham,484,451
+ENG-Premier League,2526,Leeds United,Leeds,477,478
+ENG-Premier League,2526,Liverpool,Liverpool,586,434
+ENG-Premier League,2526,Manchester City,Manchester_City,596,370
+ENG-Premier League,2526,Manchester Utd,Manchester_United,599,441
+ENG-Premier League,2526,Newcastle,Newcastle_United,492,470
+ENG-Premier League,2526,Nottingham,Nottingham_Forest,476,508
+ENG-Premier League,2526,Sunderland,Sunderland,399,542
+ENG-Premier League,2526,Tottenham,Tottenham,436,465
+ENG-Premier League,2526,West Ham,West_Ham,405,568
+ENG-Premier League,2526,Wolves,Wolverhampton_Wanderers,370,531
+ESP-La Liga,1617,Alavés,Alavés,393,507
+ESP-La Liga,1617,Athletic Club,Athletic_Club,486,380
+ESP-La Liga,1617,Atlético Madrid,Atlético_Madrid,504,427
+ESP-La Liga,1617,Barcelona,Barcelona,651,357
+ESP-La Liga,1617,Celta Vigo,Celta_Vigo,405,508
+ESP-La Liga,1617,Dep. La Coruña,Deportivo_La_Coruna,461,480
+ESP-La Liga,1617,Eibar,Eibar,455,406
+ESP-La Liga,1617,Espanyol,Espanyol,344,454
+ESP-La Liga,1617,Granada,Granada,383,583
+ESP-La Liga,1617,Las Palmas,Las_Palmas,440,473
+ESP-La Liga,1617,Leganés,Leganés,408,401
+ESP-La Liga,1617,Málaga,Málaga,491,414
+ESP-La Liga,1617,Osasuna,Osasuna,395,513
+ESP-La Liga,1617,Real Betis,Real_Betis,442,466
+ESP-La Liga,1617,Real Madrid,Real_Madrid,663,402
+ESP-La Liga,1617,Real Sociedad,Real_Sociedad,494,390
+ESP-La Liga,1617,Sevilla,Sevilla,489,441
+ESP-La Liga,1617,Sporting Gijón,Sporting_Gijón,375,566
+ESP-La Liga,1617,Valencia,Valencia,454,503
+ESP-La Liga,1617,Villarreal,Villarreal,429,491
+ENG-Premier League,1617,Arsenal,Arsenal,570,433
+ENG-Premier League,1617,Bournemouth,Bournemouth,455,557
+ENG-Premier League,1617,Burnley,Burnley,390,673
+ENG-Premier League,1617,Chelsea,Chelsea,582,324
+ENG-Premier League,1617,Crystal Palace,Crystal_Palace,441,517
+ENG-Premier League,1617,Everton,Everton,506,448
+ENG-Premier League,1617,Hull City,Hull,398,638
+ENG-Premier League,1617,Leicester City,Leicester,435,555
+ENG-Premier League,1617,Liverpool,Liverpool,639,310
+ENG-Premier League,1617,Manchester City,Manchester_City,638,301
+ENG-Premier League,1617,Manchester Utd,Manchester_United,590,362
+ENG-Premier League,1617,Middlesbrough,Middlesbrough,351,552
+ENG-Premier League,1617,Southampton,Southampton,552,437
+ENG-Premier League,1617,Stoke City,Stoke,429,542
+ENG-Premier League,1617,Sunderland,Sunderland,388,677
+ENG-Premier League,1617,Swansea City,Swansea,405,524
+ENG-Premier League,1617,Tottenham,Tottenham,671,349
+ENG-Premier League,1617,Watford,Watford,423,539
+ENG-Premier League,1617,West Brom,West_Bromwich_Albion,398,518
+ENG-Premier League,1617,West Ham,West_Ham,499,504
+ESP-La Liga,2122,Alavés,Alavés,383,519
+ESP-La Liga,2122,Athletic Club,Athletic_Club,470,445
+ESP-La Liga,2122,Atlético Madrid,Atlético_Madrid,465,359
+ESP-La Liga,2122,Barcelona,Barcelona,518,353
+ESP-La Liga,2122,Celta Vigo,Celta_Vigo,411,408
+ESP-La Liga,2122,Cádiz,Cádiz,412,472
+ESP-La Liga,2122,Elche,Elche,337,521
+ESP-La Liga,2122,Espanyol,Espanyol,409,501
+ESP-La Liga,2122,Getafe,Getafe,409,413
+ESP-La Liga,2122,Granada,Granada,426,567
+ESP-La Liga,2122,Levante,Levante,442,511
+ESP-La Liga,2122,Mallorca,Mallorca,447,473
+ESP-La Liga,2122,Osasuna,Osasuna,433,446
+ESP-La Liga,2122,Rayo Vallecano,Rayo_Vallecano,507,414
+ESP-La Liga,2122,Real Betis,Real_Betis,515,434
+ESP-La Liga,2122,Real Madrid,Real_Madrid,657,431
+ESP-La Liga,2122,Real Sociedad,Real_Sociedad,439,422
+ESP-La Liga,2122,Sevilla,Sevilla,435,425
+ESP-La Liga,2122,Valencia,Valencia,406,446
+ESP-La Liga,2122,Villarreal,Villarreal,456,417
+ENG-Premier League,2122,Arsenal,Arsenal,587,426
+ENG-Premier League,2122,Aston Villa,Aston_Villa,465,480
+ENG-Premier League,2122,Brentford,Brentford,444,505
+ENG-Premier League,2122,Brighton,Brighton,490,476
+ENG-Premier League,2122,Burnley,Burnley,409,606
+ENG-Premier League,2122,Chelsea,Chelsea,593,339
+ENG-Premier League,2122,Crystal Palace,Crystal_Palace,411,446
+ENG-Premier League,2122,Everton,Everton,440,525
+ENG-Premier League,2122,Leeds United,Leeds,485,582
+ENG-Premier League,2122,Leicester City,Leicester,434,565
+ENG-Premier League,2122,Liverpool,Liverpool,729,297
+ENG-Premier League,2122,Manchester City,Manchester_City,717,237
+ENG-Premier League,2122,Manchester Utd,Manchester_United,509,514
+ENG-Premier League,2122,Newcastle,Newcastle_United,451,529
+ENG-Premier League,2122,Norwich City,Norwich,375,633
+ENG-Premier League,2122,Southampton,Southampton,484,498
+ENG-Premier League,2122,Tottenham,Tottenham,498,490
+ENG-Premier League,2122,Watford,Watford,397,564
+ENG-Premier League,2122,West Ham,West_Ham,452,550
+ENG-Premier League,2122,Wolves,Wolverhampton_Wanderers,405,513

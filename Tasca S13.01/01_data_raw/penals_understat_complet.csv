@@ -1,0 +1,177 @@
+league,season,team,team_understat,penals_favor_understat,penals_contra_understat,penals_encaixats_understat
+ENG-Premier League,1516,Arsenal,Arsenal,2.0,1.0,1.0
+ENG-Premier League,1516,Aston Villa,Aston_Villa,2.0,5.0,3.0
+ENG-Premier League,1516,Bournemouth,Bournemouth,4.0,6.0,4.0
+ENG-Premier League,1516,Chelsea,Chelsea,5.0,4.0,3.0
+ENG-Premier League,1516,Crystal Palace,Crystal_Palace,5.0,4.0,4.0
+ENG-Premier League,1516,Everton,Everton,5.0,6.0,5.0
+ENG-Premier League,1516,Leicester City,Leicester,13.0,4.0,4.0
+ENG-Premier League,1516,Liverpool,Liverpool,2.0,3.0,2.0
+ENG-Premier League,1516,Manchester City,Manchester_City,8.0,1.0,1.0
+ENG-Premier League,1516,Manchester Utd,Manchester_United,3.0,2.0,2.0
+ENG-Premier League,1516,Newcastle,Newcastle_United,3.0,5.0,4.0
+ENG-Premier League,1516,Norwich City,Norwich,1.0,10.0,9.0
+ENG-Premier League,1516,Southampton,Southampton,4.0,1.0,1.0
+ENG-Premier League,1516,Stoke City,Stoke,5.0,5.0,5.0
+ENG-Premier League,1516,Sunderland,Sunderland,3.0,8.0,7.0
+ENG-Premier League,1516,Swansea City,Swansea,5.0,2.0,2.0
+ENG-Premier League,1516,Tottenham,Tottenham,5.0,2.0,2.0
+ENG-Premier League,1516,Watford,Watford,7.0,8.0,4.0
+ENG-Premier League,1516,West Brom,West_Bromwich_Albion,5.0,6.0,5.0
+ENG-Premier League,1516,West Ham,West_Ham,4.0,8.0,6.0
+ITA-Serie A,1415,Atalanta,Atalanta,5.0,9.0,6.0
+ITA-Serie A,1415,Cagliari,Cagliari,7.0,4.0,3.0
+ITA-Serie A,1415,Cesena,Cesena,6.0,10.0,7.0
+ITA-Serie A,1415,Chievo,Chievo,2.0,4.0,2.0
+ITA-Serie A,1415,Empoli,Empoli,3.0,2.0,1.0
+ITA-Serie A,1415,Fiorentina,Fiorentina,7.0,3.0,3.0
+ITA-Serie A,1415,Genoa,Genoa,7.0,8.0,3.0
+ITA-Serie A,1415,Hellas Verona,Verona,6.0,8.0,5.0
+ITA-Serie A,1415,Inter,Inter,7.0,6.0,2.0
+ITA-Serie A,1415,Juventus,Juventus,9.0,5.0,2.0
+ITA-Serie A,1415,Lazio,Lazio,5.0,6.0,4.0
+ITA-Serie A,1415,Milan,AC_Milan,11.0,6.0,4.0
+ITA-Serie A,1415,Napoli,Napoli,9.0,2.0,2.0
+ITA-Serie A,1415,Palermo,Palermo,7.0,5.0,4.0
+ITA-Serie A,1415,Parma,Parma,2.0,6.0,5.0
+ITA-Serie A,1415,Roma,Roma,7.0,5.0,5.0
+ITA-Serie A,1415,Sampdoria,Sampdoria,2.0,7.0,6.0
+ITA-Serie A,1415,Sassuolo,Sassuolo,9.0,5.0,4.0
+ITA-Serie A,1415,Torino,Torino,6.0,8.0,7.0
+ITA-Serie A,1415,Udinese,Udinese,1.0,9.0,8.0
+FRA-Ligue 1,1516,Angers,Angers,7.0,5.0,4.0
+FRA-Ligue 1,1516,Bastia,SC_Bastia,2.0,6.0,4.0
+FRA-Ligue 1,1516,Bordeaux,Bordeaux,2.0,7.0,5.0
+FRA-Ligue 1,1516,Caen,Caen,6.0,2.0,2.0
+FRA-Ligue 1,1516,Gazélec Ajaccio,GFC_Ajaccio,4.0,5.0,5.0
+FRA-Ligue 1,1516,Guingamp,Guingamp,4.0,7.0,5.0
+FRA-Ligue 1,1516,Lille,Lille,3.0,5.0,2.0
+FRA-Ligue 1,1516,Lorient,Lorient,7.0,3.0,3.0
+FRA-Ligue 1,1516,Lyon,Lyon,4.0,2.0,2.0
+FRA-Ligue 1,1516,Marseille,Marseille,4.0,7.0,6.0
+FRA-Ligue 1,1516,Monaco,Monaco,7.0,3.0,1.0
+FRA-Ligue 1,1516,Montpellier,Montpellier,3.0,3.0,3.0
+FRA-Ligue 1,1516,Nantes,Nantes,0.0,5.0,4.0
+FRA-Ligue 1,1516,Nice,Nice,5.0,5.0,4.0
+FRA-Ligue 1,1516,PSG,Paris_Saint_Germain,8.0,3.0,1.0
+FRA-Ligue 1,1516,Reims,Reims,3.0,3.0,2.0
+FRA-Ligue 1,1516,Rennes,Rennes,7.0,3.0,2.0
+FRA-Ligue 1,1516,Saint-Étienne,Saint-Étienne,5.0,3.0,2.0
+FRA-Ligue 1,1516,Toulouse,Toulouse,8.0,2.0,0.0
+FRA-Ligue 1,1516,Troyes,Troyes,3.0,13.0,9.0
+ITA-Serie A,1516,Atalanta,Atalanta,8.0,9.0,5.0
+ITA-Serie A,1516,Bologna,Bologna,3.0,9.0,8.0
+ITA-Serie A,1516,Carpi,Carpi,9.0,7.0,6.0
+ITA-Serie A,1516,Chievo,Chievo,8.0,4.0,2.0
+ITA-Serie A,1516,Empoli,Empoli,2.0,2.0,2.0
+ITA-Serie A,1516,Fiorentina,Fiorentina,9.0,1.0,1.0
+ITA-Serie A,1516,Frosinone,Frosinone,3.0,9.0,7.0
+ITA-Serie A,1516,Genoa,Genoa,4.0,2.0,1.0
+ITA-Serie A,1516,Hellas Verona,Verona,7.0,6.0,6.0
+ITA-Serie A,1516,Inter,Inter,3.0,6.0,5.0
+ITA-Serie A,1516,Juventus,Juventus,9.0,4.0,3.0
+ITA-Serie A,1516,Lazio,Lazio,11.0,8.0,4.0
+ITA-Serie A,1516,Milan,AC_Milan,7.0,5.0,4.0
+ITA-Serie A,1516,Napoli,Napoli,8.0,5.0,4.0
+ITA-Serie A,1516,Palermo,Palermo,1.0,6.0,6.0
+ITA-Serie A,1516,Roma,Roma,4.0,8.0,6.0
+ITA-Serie A,1516,Sampdoria,Sampdoria,3.0,10.0,6.0
+ITA-Serie A,1516,Sassuolo,Sassuolo,7.0,5.0,3.0
+ITA-Serie A,1516,Torino,Torino,11.0,7.0,7.0
+ITA-Serie A,1516,Udinese,Udinese,4.0,8.0,7.0
+ESP-La Liga,1415,Almería,Almería,6.0,2.0,1.0
+ESP-La Liga,1415,Athletic Club,Athletic_Club,5.0,3.0,2.0
+ESP-La Liga,1415,Atlético Madrid,Atlético_Madrid,6.0,3.0,3.0
+ESP-La Liga,1415,Barcelona,Barcelona,7.0,5.0,4.0
+ESP-La Liga,1415,Celta Vigo,Celta_Vigo,6.0,7.0,5.0
+ESP-La Liga,1415,Córdoba,Córdoba,3.0,7.0,6.0
+ESP-La Liga,1415,Dep. La Coruña,Deportivo_La_Coruna,7.0,6.0,4.0
+ESP-La Liga,1415,Eibar,Eibar,2.0,5.0,5.0
+ESP-La Liga,1415,Elche,Elche,7.0,9.0,7.0
+ESP-La Liga,1415,Espanyol,Espanyol,4.0,1.0,0.0
+ESP-La Liga,1415,Getafe,Getafe,2.0,8.0,8.0
+ESP-La Liga,1415,Granada,Granada,6.0,4.0,4.0
+ESP-La Liga,1415,Levante,Levante,4.0,8.0,4.0
+ESP-La Liga,1415,Málaga,Málaga,7.0,6.0,3.0
+ESP-La Liga,1415,Rayo Vallecano,Rayo_Vallecano,3.0,6.0,6.0
+ESP-La Liga,1415,Real Madrid,Real_Madrid,13.0,5.0,4.0
+ESP-La Liga,1415,Real Sociedad,Real_Sociedad,3.0,6.0,5.0
+ESP-La Liga,1415,Sevilla,Sevilla,10.0,8.0,8.0
+ESP-La Liga,1415,Valencia,Valencia,7.0,8.0,4.0
+ESP-La Liga,1415,Villarreal,Villarreal,2.0,3.0,3.0
+GER-Bundesliga,1516,Augsburg,Augsburg,7.0,7.0,5.0
+GER-Bundesliga,1516,Bayern Munich,Bayern_Munich,9.0,2.0,1.0
+GER-Bundesliga,1516,Darmstadt 98,Darmstadt,4.0,4.0,3.0
+GER-Bundesliga,1516,Dortmund,Borussia_Dortmund,6.0,4.0,4.0
+GER-Bundesliga,1516,Frankfurt,Eintracht_Frankfurt,2.0,5.0,3.0
+GER-Bundesliga,1516,Gladbach,Borussia_M.Gladbach,4.0,8.0,7.0
+GER-Bundesliga,1516,Hamburger SV,Hamburger_SV,3.0,5.0,4.0
+GER-Bundesliga,1516,Hannover 96,Hannover_96,3.0,7.0,7.0
+GER-Bundesliga,1516,Hertha BSC,Hertha_Berlin,3.0,4.0,4.0
+GER-Bundesliga,1516,Hoffenheim,Hoffenheim,6.0,2.0,2.0
+GER-Bundesliga,1516,Ingolstadt,Ingolstadt,10.0,4.0,3.0
+GER-Bundesliga,1516,Köln,FC_Cologne,4.0,4.0,3.0
+GER-Bundesliga,1516,Leverkusen,Bayer_Leverkusen,3.0,7.0,6.0
+GER-Bundesliga,1516,Mainz 05,Mainz_05,1.0,7.0,3.0
+GER-Bundesliga,1516,Schalke 04,Schalke_04,5.0,3.0,2.0
+GER-Bundesliga,1516,Stuttgart,VfB_Stuttgart,4.0,5.0,4.0
+GER-Bundesliga,1516,Werder Bremen,Werder_Bremen,9.0,6.0,6.0
+GER-Bundesliga,1516,Wolfsburg,Wolfsburg,3.0,2.0,1.0
+GER-Bundesliga,1415,Augsburg,Augsburg,8.0,4.0,4.0
+GER-Bundesliga,1415,Bayern Munich,Bayern_Munich,6.0,2.0,0.0
+GER-Bundesliga,1415,Dortmund,Borussia_Dortmund,3.0,2.0,2.0
+GER-Bundesliga,1415,Frankfurt,Eintracht_Frankfurt,4.0,3.0,3.0
+GER-Bundesliga,1415,Freiburg,Freiburg,9.0,2.0,2.0
+GER-Bundesliga,1415,Gladbach,Borussia_M.Gladbach,3.0,4.0,3.0
+GER-Bundesliga,1415,Hamburger SV,Hamburger_SV,3.0,8.0,5.0
+GER-Bundesliga,1415,Hannover 96,Hannover_96,3.0,2.0,2.0
+GER-Bundesliga,1415,Hertha BSC,Hertha_Berlin,4.0,3.0,3.0
+GER-Bundesliga,1415,Hoffenheim,Hoffenheim,5.0,4.0,4.0
+GER-Bundesliga,1415,Köln,FC_Cologne,4.0,4.0,3.0
+GER-Bundesliga,1415,Leverkusen,Bayer_Leverkusen,1.0,6.0,6.0
+GER-Bundesliga,1415,Mainz 05,Mainz_05,5.0,6.0,4.0
+GER-Bundesliga,1415,Paderborn 07,Paderborn_07,1.0,7.0,5.0
+GER-Bundesliga,1415,Schalke 04,Schalke_04,3.0,2.0,1.0
+GER-Bundesliga,1415,Stuttgart,VfB_Stuttgart,1.0,4.0,4.0
+GER-Bundesliga,1415,Werder Bremen,Werder_Bremen,4.0,5.0,5.0
+GER-Bundesliga,1415,Wolfsburg,Wolfsburg,4.0,3.0,2.0
+ENG-Premier League,1415,Arsenal,Arsenal,7.0,3.0,3.0
+ENG-Premier League,1415,Aston Villa,Aston_Villa,1.0,4.0,4.0
+ENG-Premier League,1415,Burnley,Burnley,3.0,5.0,3.0
+ENG-Premier League,1415,Chelsea,Chelsea,5.0,3.0,3.0
+ENG-Premier League,1415,Crystal Palace,Crystal_Palace,6.0,6.0,4.0
+ENG-Premier League,1415,Everton,Everton,7.0,4.0,4.0
+ENG-Premier League,1415,Hull City,Hull,1.0,3.0,1.0
+ENG-Premier League,1415,Leicester City,Leicester,4.0,4.0,3.0
+ENG-Premier League,1415,Liverpool,Liverpool,6.0,3.0,1.0
+ENG-Premier League,1415,Manchester City,Manchester_City,8.0,4.0,3.0
+ENG-Premier League,1415,Manchester Utd,Manchester_United,5.0,4.0,3.0
+ENG-Premier League,1415,Newcastle,Newcastle_United,1.0,4.0,4.0
+ENG-Premier League,1415,QPR,Queens_Park_Rangers,5.0,4.0,2.0
+ENG-Premier League,1415,Southampton,Southampton,3.0,2.0,2.0
+ENG-Premier League,1415,Stoke City,Stoke,3.0,5.0,5.0
+ENG-Premier League,1415,Sunderland,Sunderland,4.0,4.0,4.0
+ENG-Premier League,1415,Swansea City,Swansea,2.0,2.0,2.0
+ENG-Premier League,1415,Tottenham,Tottenham,5.0,7.0,5.0
+ENG-Premier League,1415,West Brom,West_Bromwich_Albion,5.0,7.0,5.0
+ENG-Premier League,1415,West Ham,West_Ham,2.0,5.0,2.0
+FRA-Ligue 1,1415,Bastia,SC_Bastia,5.0,7.0,4.0
+FRA-Ligue 1,1415,Bordeaux,Bordeaux,8.0,7.0,6.0
+FRA-Ligue 1,1415,Caen,Caen,6.0,15.0,12.0
+FRA-Ligue 1,1415,Evian,Evian_Thonon_Gaillard,2.0,8.0,7.0
+FRA-Ligue 1,1415,Guingamp,Guingamp,7.0,7.0,5.0
+FRA-Ligue 1,1415,Lens,Lens,8.0,9.0,9.0
+FRA-Ligue 1,1415,Lille,Lille,8.0,3.0,2.0
+FRA-Ligue 1,1415,Lorient,Lorient,5.0,7.0,6.0
+FRA-Ligue 1,1415,Lyon,Lyon,12.0,6.0,5.0
+FRA-Ligue 1,1415,Marseille,Marseille,4.0,4.0,4.0
+FRA-Ligue 1,1415,Metz,Metz,10.0,5.0,5.0
+FRA-Ligue 1,1415,Monaco,Monaco,7.0,6.0,3.0
+FRA-Ligue 1,1415,Montpellier,Montpellier,6.0,4.0,3.0
+FRA-Ligue 1,1415,Nantes,Nantes,6.0,4.0,3.0
+FRA-Ligue 1,1415,Nice,Nice,4.0,8.0,6.0
+FRA-Ligue 1,1415,PSG,Paris_Saint_Germain,14.0,3.0,3.0
+FRA-Ligue 1,1415,Reims,Reims,3.0,7.0,4.0
+FRA-Ligue 1,1415,Rennes,Rennes,3.0,5.0,4.0
+FRA-Ligue 1,1415,Saint-Étienne,Saint-Étienne,7.0,6.0,4.0
+FRA-Ligue 1,1415,Toulouse,Toulouse,4.0,8.0,7.0
