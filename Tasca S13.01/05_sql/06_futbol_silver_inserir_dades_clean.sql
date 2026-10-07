@@ -1,0 +1,10 @@
+INSERT INTO futbol_silver.clean_class SELECT * FROM futbol_bronze.raw_class;
+INSERT INTO futbol_silver.clean_keeper SELECT * FROM futbol_bronze.raw_keeper;
+INSERT INTO futbol_silver.clean_misc SELECT * FROM futbol_bronze.raw_misc;
+INSERT INTO futbol_silver.clean_penals SELECT * FROM futbol_bronze.raw_penals;
+INSERT INTO futbol_silver.clean_shooting SELECT * FROM futbol_bronze.raw_shooting;
+INSERT INTO futbol_silver.clean_standard SELECT * FROM futbol_bronze.raw_standard;
+INSERT INTO futbol_silver.clean_xuts SELECT * FROM futbol_bronze.raw_xuts;
+INSERT INTO futbol_silver.clean_targetes SELECT * FROM futbol_bronze.raw_targetes;
+INSERT INTO futbol_silver.clean_faltes SELECT * FROM futbol_bronze.raw_faltes;
+INSERT INTO futbol_silver.clean_finals SELECT * FROM futbol_bronze.raw_finals;
