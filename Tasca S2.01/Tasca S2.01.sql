@@ -558,10 +558,10 @@ SELECT c.company_id AS ID_Empresa, c.company_name AS Nom, c.phone AS Telèfon, c
 FROM companies AS c
 JOIN operations AS o ON c.company_id = o.company_id
 WHERE o.declined = 0
-GROUP BY c.company_id, c.company_name, c.phone, c.country;
-
-SELECT * FROM VistaMarketing
+GROUP BY c.company_id, c.company_name, c.phone, c.country
 ORDER BY Mitjana_de_Compra DESC;
+
+SELECT * FROM VistaMarketing;
 
 -- Nivell 3
 -- Exercici 1
